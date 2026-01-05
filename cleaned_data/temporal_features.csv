@@ -1,0 +1,1249 @@
+state,district,category,type,date,crimes,year,crimes_prev_year,yoy_change,yoy_change_pct
+Johor,Batu Pahat,property,all,2016-01-01,621,2016,,,
+Johor,Batu Pahat,property,all,2017-01-01,558,2017,621.0,-63.0,-10.14
+Johor,Batu Pahat,property,all,2018-01-01,584,2018,558.0,26.0,4.66
+Johor,Batu Pahat,property,all,2019-01-01,524,2019,584.0,-60.0,-10.27
+Johor,Batu Pahat,property,all,2020-01-01,415,2020,524.0,-109.0,-20.8
+Johor,Batu Pahat,property,all,2021-01-01,200,2021,415.0,-215.0,-51.81
+Johor,Batu Pahat,property,all,2022-01-01,262,2022,200.0,62.0,31.0
+Johor,Batu Pahat,property,all,2023-01-01,285,2023,262.0,23.0,8.78
+Johor,Iskandar Puteri,property,all,2016-01-01,0,2016,,,
+Johor,Iskandar Puteri,property,all,2017-01-01,727,2017,0.0,727.0,
+Johor,Iskandar Puteri,property,all,2018-01-01,784,2018,727.0,57.0,7.84
+Johor,Iskandar Puteri,property,all,2019-01-01,784,2019,784.0,0.0,0.0
+Johor,Iskandar Puteri,property,all,2020-01-01,538,2020,784.0,-246.0,-31.38
+Johor,Iskandar Puteri,property,all,2021-01-01,332,2021,538.0,-206.0,-38.29
+Johor,Iskandar Puteri,property,all,2022-01-01,356,2022,332.0,24.0,7.23
+Johor,Iskandar Puteri,property,all,2023-01-01,448,2023,356.0,92.0,25.84
+Johor,Johor Bahru Selatan,property,all,2016-01-01,2802,2016,,,
+Johor,Johor Bahru Selatan,property,all,2017-01-01,2275,2017,2802.0,-527.0,-18.81
+Johor,Johor Bahru Selatan,property,all,2018-01-01,2042,2018,2275.0,-233.0,-10.24
+Johor,Johor Bahru Selatan,property,all,2019-01-01,1766,2019,2042.0,-276.0,-13.52
+Johor,Johor Bahru Selatan,property,all,2020-01-01,1265,2020,1766.0,-501.0,-28.37
+Johor,Johor Bahru Selatan,property,all,2021-01-01,609,2021,1265.0,-656.0,-51.86
+Johor,Johor Bahru Selatan,property,all,2022-01-01,733,2022,609.0,124.0,20.36
+Johor,Johor Bahru Selatan,property,all,2023-01-01,853,2023,733.0,120.0,16.37
+Johor,Johor Bahru Utara,property,all,2016-01-01,1628,2016,,,
+Johor,Johor Bahru Utara,property,all,2017-01-01,1237,2017,1628.0,-391.0,-24.02
+Johor,Johor Bahru Utara,property,all,2018-01-01,1306,2018,1237.0,69.0,5.58
+Johor,Johor Bahru Utara,property,all,2019-01-01,1144,2019,1306.0,-162.0,-12.4
+Johor,Johor Bahru Utara,property,all,2020-01-01,760,2020,1144.0,-384.0,-33.57
+Johor,Johor Bahru Utara,property,all,2021-01-01,385,2021,760.0,-375.0,-49.34
+Johor,Johor Bahru Utara,property,all,2022-01-01,354,2022,385.0,-31.0,-8.05
+Johor,Johor Bahru Utara,property,all,2023-01-01,387,2023,354.0,33.0,9.32
+Johor,Kluang,property,all,2016-01-01,526,2016,,,
+Johor,Kluang,property,all,2017-01-01,535,2017,526.0,9.0,1.71
+Johor,Kluang,property,all,2018-01-01,477,2018,535.0,-58.0,-10.84
+Johor,Kluang,property,all,2019-01-01,458,2019,477.0,-19.0,-3.98
+Johor,Kluang,property,all,2020-01-01,404,2020,458.0,-54.0,-11.79
+Johor,Kluang,property,all,2021-01-01,221,2021,404.0,-183.0,-45.3
+Johor,Kluang,property,all,2022-01-01,204,2022,221.0,-17.0,-7.69
+Johor,Kluang,property,all,2023-01-01,294,2023,204.0,90.0,44.12
+Johor,Kota Tinggi,property,all,2016-01-01,456,2016,,,
+Johor,Kota Tinggi,property,all,2017-01-01,494,2017,456.0,38.0,8.33
+Johor,Kota Tinggi,property,all,2018-01-01,475,2018,494.0,-19.0,-3.85
+Johor,Kota Tinggi,property,all,2019-01-01,401,2019,475.0,-74.0,-15.58
+Johor,Kota Tinggi,property,all,2020-01-01,368,2020,401.0,-33.0,-8.23
+Johor,Kota Tinggi,property,all,2021-01-01,186,2021,368.0,-182.0,-49.46
+Johor,Kota Tinggi,property,all,2022-01-01,169,2022,186.0,-17.0,-9.14
+Johor,Kota Tinggi,property,all,2023-01-01,209,2023,169.0,40.0,23.67
+Johor,Kulaijaya,property,all,2016-01-01,617,2016,,,
+Johor,Kulaijaya,property,all,2017-01-01,563,2017,617.0,-54.0,-8.75
+Johor,Kulaijaya,property,all,2018-01-01,547,2018,563.0,-16.0,-2.84
+Johor,Kulaijaya,property,all,2019-01-01,543,2019,547.0,-4.0,-0.73
+Johor,Kulaijaya,property,all,2020-01-01,297,2020,543.0,-246.0,-45.3
+Johor,Kulaijaya,property,all,2021-01-01,214,2021,297.0,-83.0,-27.95
+Johor,Kulaijaya,property,all,2022-01-01,216,2022,214.0,2.0,0.93
+Johor,Kulaijaya,property,all,2023-01-01,211,2023,216.0,-5.0,-2.31
+Johor,Ledang,property,all,2016-01-01,220,2016,,,
+Johor,Ledang,property,all,2017-01-01,190,2017,220.0,-30.0,-13.64
+Johor,Ledang,property,all,2018-01-01,174,2018,190.0,-16.0,-8.42
+Johor,Ledang,property,all,2019-01-01,195,2019,174.0,21.0,12.07
+Johor,Ledang,property,all,2020-01-01,144,2020,195.0,-51.0,-26.15
+Johor,Ledang,property,all,2021-01-01,71,2021,144.0,-73.0,-50.69
+Johor,Ledang,property,all,2022-01-01,78,2022,71.0,7.0,9.86
+Johor,Ledang,property,all,2023-01-01,99,2023,78.0,21.0,26.92
+Johor,Mersing,property,all,2016-01-01,112,2016,,,
+Johor,Mersing,property,all,2017-01-01,120,2017,112.0,8.0,7.14
+Johor,Mersing,property,all,2018-01-01,100,2018,120.0,-20.0,-16.67
+Johor,Mersing,property,all,2019-01-01,109,2019,100.0,9.0,9.0
+Johor,Mersing,property,all,2020-01-01,72,2020,109.0,-37.0,-33.94
+Johor,Mersing,property,all,2021-01-01,73,2021,72.0,1.0,1.39
+Johor,Mersing,property,all,2022-01-01,68,2022,73.0,-5.0,-6.85
+Johor,Mersing,property,all,2023-01-01,63,2023,68.0,-5.0,-7.35
+Johor,Muar,property,all,2016-01-01,298,2016,,,
+Johor,Muar,property,all,2017-01-01,234,2017,298.0,-64.0,-21.48
+Johor,Muar,property,all,2018-01-01,247,2018,234.0,13.0,5.56
+Johor,Muar,property,all,2019-01-01,235,2019,247.0,-12.0,-4.86
+Johor,Muar,property,all,2020-01-01,210,2020,235.0,-25.0,-10.64
+Johor,Muar,property,all,2021-01-01,171,2021,210.0,-39.0,-18.57
+Johor,Muar,property,all,2022-01-01,171,2022,171.0,0.0,0.0
+Johor,Muar,property,all,2023-01-01,236,2023,171.0,65.0,38.01
+Johor,Nusajaya,property,all,2016-01-01,788,2016,,,
+Johor,Nusajaya,property,all,2017-01-01,3,2017,788.0,-785.0,-99.62
+Johor,Nusajaya,property,all,2018-01-01,0,2018,3.0,-3.0,-100.0
+Johor,Nusajaya,property,all,2019-01-01,0,2019,0.0,0.0,
+Johor,Nusajaya,property,all,2020-01-01,0,2020,0.0,0.0,
+Johor,Nusajaya,property,all,2021-01-01,1,2021,0.0,1.0,
+Johor,Nusajaya,property,all,2022-01-01,0,2022,1.0,-1.0,-100.0
+Johor,Nusajaya,property,all,2023-01-01,0,2023,0.0,0.0,
+Johor,Pontian,property,all,2016-01-01,230,2016,,,
+Johor,Pontian,property,all,2017-01-01,247,2017,230.0,17.0,7.39
+Johor,Pontian,property,all,2018-01-01,228,2018,247.0,-19.0,-7.69
+Johor,Pontian,property,all,2019-01-01,235,2019,228.0,7.0,3.07
+Johor,Pontian,property,all,2020-01-01,144,2020,235.0,-91.0,-38.72
+Johor,Pontian,property,all,2021-01-01,86,2021,144.0,-58.0,-40.28
+Johor,Pontian,property,all,2022-01-01,105,2022,86.0,19.0,22.09
+Johor,Pontian,property,all,2023-01-01,181,2023,105.0,76.0,72.38
+Johor,Segamat,property,all,2016-01-01,295,2016,,,
+Johor,Segamat,property,all,2017-01-01,325,2017,295.0,30.0,10.17
+Johor,Segamat,property,all,2018-01-01,299,2018,325.0,-26.0,-8.0
+Johor,Segamat,property,all,2019-01-01,275,2019,299.0,-24.0,-8.03
+Johor,Segamat,property,all,2020-01-01,231,2020,275.0,-44.0,-16.0
+Johor,Segamat,property,all,2021-01-01,165,2021,231.0,-66.0,-28.57
+Johor,Segamat,property,all,2022-01-01,124,2022,165.0,-41.0,-24.85
+Johor,Segamat,property,all,2023-01-01,138,2023,124.0,14.0,11.29
+Johor,Seri Alam,property,all,2016-01-01,1528,2016,,,
+Johor,Seri Alam,property,all,2017-01-01,1221,2017,1528.0,-307.0,-20.09
+Johor,Seri Alam,property,all,2018-01-01,1195,2018,1221.0,-26.0,-2.13
+Johor,Seri Alam,property,all,2019-01-01,1278,2019,1195.0,83.0,6.95
+Johor,Seri Alam,property,all,2020-01-01,1118,2020,1278.0,-160.0,-12.52
+Johor,Seri Alam,property,all,2021-01-01,726,2021,1118.0,-392.0,-35.06
+Johor,Seri Alam,property,all,2022-01-01,649,2022,726.0,-77.0,-10.61
+Johor,Seri Alam,property,all,2023-01-01,698,2023,649.0,49.0,7.55
+Kedah,Baling,property,all,2016-01-01,351,2016,,,
+Kedah,Baling,property,all,2017-01-01,255,2017,351.0,-96.0,-27.35
+Kedah,Baling,property,all,2018-01-01,281,2018,255.0,26.0,10.2
+Kedah,Baling,property,all,2019-01-01,270,2019,281.0,-11.0,-3.91
+Kedah,Baling,property,all,2020-01-01,186,2020,270.0,-84.0,-31.11
+Kedah,Baling,property,all,2021-01-01,165,2021,186.0,-21.0,-11.29
+Kedah,Baling,property,all,2022-01-01,268,2022,165.0,103.0,62.42
+Kedah,Baling,property,all,2023-01-01,257,2023,268.0,-11.0,-4.1
+Kedah,Bandar Baharu,property,all,2020-01-01,31,2020,,,
+Kedah,Bandar Baharu,property,all,2021-01-01,30,2021,31.0,-1.0,-3.23
+Kedah,Bandar Baharu,property,all,2022-01-01,38,2022,30.0,8.0,26.67
+Kedah,Bandar Baharu,property,all,2023-01-01,31,2023,38.0,-7.0,-18.42
+Kedah,Bandar Bharu,property,all,2016-01-01,52,2016,,,
+Kedah,Bandar Bharu,property,all,2017-01-01,57,2017,52.0,5.0,9.62
+Kedah,Bandar Bharu,property,all,2018-01-01,51,2018,57.0,-6.0,-10.53
+Kedah,Bandar Bharu,property,all,2019-01-01,44,2019,51.0,-7.0,-13.73
+Kedah,Kota Setar,property,all,2016-01-01,1649,2016,,,
+Kedah,Kota Setar,property,all,2017-01-01,1387,2017,1649.0,-262.0,-15.89
+Kedah,Kota Setar,property,all,2018-01-01,1211,2018,1387.0,-176.0,-12.69
+Kedah,Kota Setar,property,all,2019-01-01,1107,2019,1211.0,-104.0,-8.59
+Kedah,Kota Setar,property,all,2020-01-01,804,2020,1107.0,-303.0,-27.37
+Kedah,Kota Setar,property,all,2021-01-01,750,2021,804.0,-54.0,-6.72
+Kedah,Kota Setar,property,all,2022-01-01,990,2022,750.0,240.0,32.0
+Kedah,Kota Setar,property,all,2023-01-01,1008,2023,990.0,18.0,1.82
+Kedah,Kuala Muda,property,all,2016-01-01,1691,2016,,,
+Kedah,Kuala Muda,property,all,2017-01-01,1705,2017,1691.0,14.0,0.83
+Kedah,Kuala Muda,property,all,2018-01-01,1602,2018,1705.0,-103.0,-6.04
+Kedah,Kuala Muda,property,all,2019-01-01,1485,2019,1602.0,-117.0,-7.3
+Kedah,Kuala Muda,property,all,2020-01-01,1049,2020,1485.0,-436.0,-29.36
+Kedah,Kuala Muda,property,all,2021-01-01,989,2021,1049.0,-60.0,-5.72
+Kedah,Kuala Muda,property,all,2022-01-01,1060,2022,989.0,71.0,7.18
+Kedah,Kuala Muda,property,all,2023-01-01,1168,2023,1060.0,108.0,10.19
+Kedah,Kubang Pasu,property,all,2016-01-01,674,2016,,,
+Kedah,Kubang Pasu,property,all,2017-01-01,673,2017,674.0,-1.0,-0.15
+Kedah,Kubang Pasu,property,all,2018-01-01,501,2018,673.0,-172.0,-25.56
+Kedah,Kubang Pasu,property,all,2019-01-01,405,2019,501.0,-96.0,-19.16
+Kedah,Kubang Pasu,property,all,2020-01-01,347,2020,405.0,-58.0,-14.32
+Kedah,Kubang Pasu,property,all,2021-01-01,248,2021,347.0,-99.0,-28.53
+Kedah,Kubang Pasu,property,all,2022-01-01,332,2022,248.0,84.0,33.87
+Kedah,Kubang Pasu,property,all,2023-01-01,329,2023,332.0,-3.0,-0.9
+Kedah,Kulim,property,all,2016-01-01,909,2016,,,
+Kedah,Kulim,property,all,2017-01-01,847,2017,909.0,-62.0,-6.82
+Kedah,Kulim,property,all,2018-01-01,727,2018,847.0,-120.0,-14.17
+Kedah,Kulim,property,all,2019-01-01,598,2019,727.0,-129.0,-17.74
+Kedah,Kulim,property,all,2020-01-01,399,2020,598.0,-199.0,-33.28
+Kedah,Kulim,property,all,2021-01-01,398,2021,399.0,-1.0,-0.25
+Kedah,Kulim,property,all,2022-01-01,501,2022,398.0,103.0,25.88
+Kedah,Kulim,property,all,2023-01-01,463,2023,501.0,-38.0,-7.58
+Kedah,Langkawi,property,all,2016-01-01,388,2016,,,
+Kedah,Langkawi,property,all,2017-01-01,353,2017,388.0,-35.0,-9.02
+Kedah,Langkawi,property,all,2018-01-01,355,2018,353.0,2.0,0.57
+Kedah,Langkawi,property,all,2019-01-01,338,2019,355.0,-17.0,-4.79
+Kedah,Langkawi,property,all,2020-01-01,269,2020,338.0,-69.0,-20.41
+Kedah,Langkawi,property,all,2021-01-01,216,2021,269.0,-53.0,-19.7
+Kedah,Langkawi,property,all,2022-01-01,200,2022,216.0,-16.0,-7.41
+Kedah,Langkawi,property,all,2023-01-01,200,2023,200.0,0.0,0.0
+Kedah,Padang Terap,property,all,2016-01-01,81,2016,,,
+Kedah,Padang Terap,property,all,2017-01-01,100,2017,81.0,19.0,23.46
+Kedah,Padang Terap,property,all,2018-01-01,90,2018,100.0,-10.0,-10.0
+Kedah,Padang Terap,property,all,2019-01-01,69,2019,90.0,-21.0,-23.33
+Kedah,Padang Terap,property,all,2020-01-01,60,2020,69.0,-9.0,-13.04
+Kedah,Padang Terap,property,all,2021-01-01,57,2021,60.0,-3.0,-5.0
+Kedah,Padang Terap,property,all,2022-01-01,74,2022,57.0,17.0,29.82
+Kedah,Padang Terap,property,all,2023-01-01,96,2023,74.0,22.0,29.73
+Kedah,Pendang,property,all,2016-01-01,194,2016,,,
+Kedah,Pendang,property,all,2017-01-01,208,2017,194.0,14.0,7.22
+Kedah,Pendang,property,all,2018-01-01,208,2018,208.0,0.0,0.0
+Kedah,Pendang,property,all,2019-01-01,192,2019,208.0,-16.0,-7.69
+Kedah,Pendang,property,all,2020-01-01,178,2020,192.0,-14.0,-7.29
+Kedah,Pendang,property,all,2021-01-01,118,2021,178.0,-60.0,-33.71
+Kedah,Pendang,property,all,2022-01-01,175,2022,118.0,57.0,48.31
+Kedah,Pendang,property,all,2023-01-01,165,2023,175.0,-10.0,-5.71
+Kedah,Sik,property,all,2016-01-01,86,2016,,,
+Kedah,Sik,property,all,2017-01-01,55,2017,86.0,-31.0,-36.05
+Kedah,Sik,property,all,2018-01-01,64,2018,55.0,9.0,16.36
+Kedah,Sik,property,all,2019-01-01,55,2019,64.0,-9.0,-14.06
+Kedah,Sik,property,all,2020-01-01,38,2020,55.0,-17.0,-30.91
+Kedah,Sik,property,all,2021-01-01,26,2021,38.0,-12.0,-31.58
+Kedah,Sik,property,all,2022-01-01,44,2022,26.0,18.0,69.23
+Kedah,Sik,property,all,2023-01-01,47,2023,44.0,3.0,6.82
+Kedah,Yan,property,all,2016-01-01,126,2016,,,
+Kedah,Yan,property,all,2017-01-01,123,2017,126.0,-3.0,-2.38
+Kedah,Yan,property,all,2018-01-01,142,2018,123.0,19.0,15.45
+Kedah,Yan,property,all,2019-01-01,115,2019,142.0,-27.0,-19.01
+Kedah,Yan,property,all,2020-01-01,96,2020,115.0,-19.0,-16.52
+Kedah,Yan,property,all,2021-01-01,70,2021,96.0,-26.0,-27.08
+Kedah,Yan,property,all,2022-01-01,76,2022,70.0,6.0,8.57
+Kedah,Yan,property,all,2023-01-01,83,2023,76.0,7.0,9.21
+Kelantan,Bachok,property,all,2016-01-01,290,2016,,,
+Kelantan,Bachok,property,all,2017-01-01,253,2017,290.0,-37.0,-12.76
+Kelantan,Bachok,property,all,2018-01-01,217,2018,253.0,-36.0,-14.23
+Kelantan,Bachok,property,all,2019-01-01,200,2019,217.0,-17.0,-7.83
+Kelantan,Bachok,property,all,2020-01-01,156,2020,200.0,-44.0,-22.0
+Kelantan,Bachok,property,all,2021-01-01,147,2021,156.0,-9.0,-5.77
+Kelantan,Bachok,property,all,2022-01-01,157,2022,147.0,10.0,6.8
+Kelantan,Bachok,property,all,2023-01-01,127,2023,157.0,-30.0,-19.11
+Kelantan,Gua Musang,property,all,2016-01-01,192,2016,,,
+Kelantan,Gua Musang,property,all,2017-01-01,164,2017,192.0,-28.0,-14.58
+Kelantan,Gua Musang,property,all,2018-01-01,123,2018,164.0,-41.0,-25.0
+Kelantan,Gua Musang,property,all,2019-01-01,122,2019,123.0,-1.0,-0.81
+Kelantan,Gua Musang,property,all,2020-01-01,81,2020,122.0,-41.0,-33.61
+Kelantan,Gua Musang,property,all,2021-01-01,70,2021,81.0,-11.0,-13.58
+Kelantan,Gua Musang,property,all,2022-01-01,95,2022,70.0,25.0,35.71
+Kelantan,Gua Musang,property,all,2023-01-01,85,2023,95.0,-10.0,-10.53
+Kelantan,Jeli,property,all,2016-01-01,38,2016,,,
+Kelantan,Jeli,property,all,2017-01-01,43,2017,38.0,5.0,13.16
+Kelantan,Jeli,property,all,2018-01-01,43,2018,43.0,0.0,0.0
+Kelantan,Jeli,property,all,2019-01-01,45,2019,43.0,2.0,4.65
+Kelantan,Jeli,property,all,2020-01-01,32,2020,45.0,-13.0,-28.89
+Kelantan,Jeli,property,all,2021-01-01,24,2021,32.0,-8.0,-25.0
+Kelantan,Jeli,property,all,2022-01-01,32,2022,24.0,8.0,33.33
+Kelantan,Jeli,property,all,2023-01-01,40,2023,32.0,8.0,25.0
+Kelantan,Kota Bharu,property,all,2016-01-01,1734,2016,,,
+Kelantan,Kota Bharu,property,all,2017-01-01,1812,2017,1734.0,78.0,4.5
+Kelantan,Kota Bharu,property,all,2018-01-01,1429,2018,1812.0,-383.0,-21.14
+Kelantan,Kota Bharu,property,all,2019-01-01,1351,2019,1429.0,-78.0,-5.46
+Kelantan,Kota Bharu,property,all,2020-01-01,845,2020,1351.0,-506.0,-37.45
+Kelantan,Kota Bharu,property,all,2021-01-01,693,2021,845.0,-152.0,-17.99
+Kelantan,Kota Bharu,property,all,2022-01-01,715,2022,693.0,22.0,3.17
+Kelantan,Kota Bharu,property,all,2023-01-01,667,2023,715.0,-48.0,-6.71
+Kelantan,Kuala Krai,property,all,2016-01-01,209,2016,,,
+Kelantan,Kuala Krai,property,all,2017-01-01,210,2017,209.0,1.0,0.48
+Kelantan,Kuala Krai,property,all,2018-01-01,162,2018,210.0,-48.0,-22.86
+Kelantan,Kuala Krai,property,all,2019-01-01,134,2019,162.0,-28.0,-17.28
+Kelantan,Kuala Krai,property,all,2020-01-01,86,2020,134.0,-48.0,-35.82
+Kelantan,Kuala Krai,property,all,2021-01-01,51,2021,86.0,-35.0,-40.7
+Kelantan,Kuala Krai,property,all,2022-01-01,38,2022,51.0,-13.0,-25.49
+Kelantan,Kuala Krai,property,all,2023-01-01,46,2023,38.0,8.0,21.05
+Kelantan,Machang,property,all,2016-01-01,211,2016,,,
+Kelantan,Machang,property,all,2017-01-01,177,2017,211.0,-34.0,-16.11
+Kelantan,Machang,property,all,2018-01-01,351,2018,177.0,174.0,98.31
+Kelantan,Machang,property,all,2019-01-01,169,2019,351.0,-182.0,-51.85
+Kelantan,Machang,property,all,2020-01-01,131,2020,169.0,-38.0,-22.49
+Kelantan,Machang,property,all,2021-01-01,90,2021,131.0,-41.0,-31.3
+Kelantan,Machang,property,all,2022-01-01,121,2022,90.0,31.0,34.44
+Kelantan,Machang,property,all,2023-01-01,91,2023,121.0,-30.0,-24.79
+Kelantan,Pasir Mas,property,all,2016-01-01,446,2016,,,
+Kelantan,Pasir Mas,property,all,2017-01-01,426,2017,446.0,-20.0,-4.48
+Kelantan,Pasir Mas,property,all,2018-01-01,375,2018,426.0,-51.0,-11.97
+Kelantan,Pasir Mas,property,all,2019-01-01,349,2019,375.0,-26.0,-6.93
+Kelantan,Pasir Mas,property,all,2020-01-01,148,2020,349.0,-201.0,-57.59
+Kelantan,Pasir Mas,property,all,2021-01-01,91,2021,148.0,-57.0,-38.51
+Kelantan,Pasir Mas,property,all,2022-01-01,103,2022,91.0,12.0,13.19
+Kelantan,Pasir Mas,property,all,2023-01-01,91,2023,103.0,-12.0,-11.65
+Kelantan,Pasir Puteh,property,all,2016-01-01,340,2016,,,
+Kelantan,Pasir Puteh,property,all,2017-01-01,337,2017,340.0,-3.0,-0.88
+Kelantan,Pasir Puteh,property,all,2018-01-01,342,2018,337.0,5.0,1.48
+Kelantan,Pasir Puteh,property,all,2019-01-01,270,2019,342.0,-72.0,-21.05
+Kelantan,Pasir Puteh,property,all,2020-01-01,212,2020,270.0,-58.0,-21.48
+Kelantan,Pasir Puteh,property,all,2021-01-01,171,2021,212.0,-41.0,-19.34
+Kelantan,Pasir Puteh,property,all,2022-01-01,175,2022,171.0,4.0,2.34
+Kelantan,Pasir Puteh,property,all,2023-01-01,135,2023,175.0,-40.0,-22.86
+Kelantan,Tanah Merah,property,all,2016-01-01,236,2016,,,
+Kelantan,Tanah Merah,property,all,2017-01-01,209,2017,236.0,-27.0,-11.44
+Kelantan,Tanah Merah,property,all,2018-01-01,165,2018,209.0,-44.0,-21.05
+Kelantan,Tanah Merah,property,all,2019-01-01,191,2019,165.0,26.0,15.76
+Kelantan,Tanah Merah,property,all,2020-01-01,126,2020,191.0,-65.0,-34.03
+Kelantan,Tanah Merah,property,all,2021-01-01,102,2021,126.0,-24.0,-19.05
+Kelantan,Tanah Merah,property,all,2022-01-01,149,2022,102.0,47.0,46.08
+Kelantan,Tanah Merah,property,all,2023-01-01,169,2023,149.0,20.0,13.42
+Kelantan,Tumpat,property,all,2016-01-01,309,2016,,,
+Kelantan,Tumpat,property,all,2017-01-01,289,2017,309.0,-20.0,-6.47
+Kelantan,Tumpat,property,all,2018-01-01,269,2018,289.0,-20.0,-6.92
+Kelantan,Tumpat,property,all,2019-01-01,244,2019,269.0,-25.0,-9.29
+Kelantan,Tumpat,property,all,2020-01-01,210,2020,244.0,-34.0,-13.93
+Kelantan,Tumpat,property,all,2021-01-01,152,2021,210.0,-58.0,-27.62
+Kelantan,Tumpat,property,all,2022-01-01,173,2022,152.0,21.0,13.82
+Kelantan,Tumpat,property,all,2023-01-01,153,2023,173.0,-20.0,-11.56
+Melaka,Alor Gajah,property,all,2016-01-01,321,2016,,,
+Melaka,Alor Gajah,property,all,2017-01-01,296,2017,321.0,-25.0,-7.79
+Melaka,Alor Gajah,property,all,2018-01-01,267,2018,296.0,-29.0,-9.8
+Melaka,Alor Gajah,property,all,2019-01-01,277,2019,267.0,10.0,3.75
+Melaka,Alor Gajah,property,all,2020-01-01,199,2020,277.0,-78.0,-28.16
+Melaka,Alor Gajah,property,all,2021-01-01,181,2021,199.0,-18.0,-9.05
+Melaka,Alor Gajah,property,all,2022-01-01,204,2022,181.0,23.0,12.71
+Melaka,Alor Gajah,property,all,2023-01-01,237,2023,204.0,33.0,16.18
+Melaka,Jasin,property,all,2016-01-01,198,2016,,,
+Melaka,Jasin,property,all,2017-01-01,191,2017,198.0,-7.0,-3.54
+Melaka,Jasin,property,all,2018-01-01,191,2018,191.0,0.0,0.0
+Melaka,Jasin,property,all,2019-01-01,198,2019,191.0,7.0,3.66
+Melaka,Jasin,property,all,2020-01-01,133,2020,198.0,-65.0,-32.83
+Melaka,Jasin,property,all,2021-01-01,119,2021,133.0,-14.0,-10.53
+Melaka,Jasin,property,all,2022-01-01,124,2022,119.0,5.0,4.2
+Melaka,Jasin,property,all,2023-01-01,155,2023,124.0,31.0,25.0
+Melaka,Melaka Tengah,property,all,2016-01-01,1991,2016,,,
+Melaka,Melaka Tengah,property,all,2017-01-01,1768,2017,1991.0,-223.0,-11.2
+Melaka,Melaka Tengah,property,all,2018-01-01,1721,2018,1768.0,-47.0,-2.66
+Melaka,Melaka Tengah,property,all,2019-01-01,1626,2019,1721.0,-95.0,-5.52
+Melaka,Melaka Tengah,property,all,2020-01-01,1096,2020,1626.0,-530.0,-32.6
+Melaka,Melaka Tengah,property,all,2021-01-01,699,2021,1096.0,-397.0,-36.22
+Melaka,Melaka Tengah,property,all,2022-01-01,705,2022,699.0,6.0,0.86
+Melaka,Melaka Tengah,property,all,2023-01-01,755,2023,705.0,50.0,7.09
+Negeri Sembilan,Jelebu,property,all,2016-01-01,67,2016,,,
+Negeri Sembilan,Jelebu,property,all,2017-01-01,56,2017,67.0,-11.0,-16.42
+Negeri Sembilan,Jelebu,property,all,2018-01-01,58,2018,56.0,2.0,3.57
+Negeri Sembilan,Jelebu,property,all,2019-01-01,50,2019,58.0,-8.0,-13.79
+Negeri Sembilan,Jelebu,property,all,2020-01-01,36,2020,50.0,-14.0,-28.0
+Negeri Sembilan,Jelebu,property,all,2021-01-01,28,2021,36.0,-8.0,-22.22
+Negeri Sembilan,Jelebu,property,all,2022-01-01,51,2022,28.0,23.0,82.14
+Negeri Sembilan,Jelebu,property,all,2023-01-01,47,2023,51.0,-4.0,-7.84
+Negeri Sembilan,Jempol,property,all,2016-01-01,211,2016,,,
+Negeri Sembilan,Jempol,property,all,2017-01-01,176,2017,211.0,-35.0,-16.59
+Negeri Sembilan,Jempol,property,all,2018-01-01,189,2018,176.0,13.0,7.39
+Negeri Sembilan,Jempol,property,all,2019-01-01,161,2019,189.0,-28.0,-14.81
+Negeri Sembilan,Jempol,property,all,2020-01-01,161,2020,161.0,0.0,0.0
+Negeri Sembilan,Jempol,property,all,2021-01-01,125,2021,161.0,-36.0,-22.36
+Negeri Sembilan,Jempol,property,all,2022-01-01,122,2022,125.0,-3.0,-2.4
+Negeri Sembilan,Jempol,property,all,2023-01-01,156,2023,122.0,34.0,27.87
+Negeri Sembilan,Kuala Pilah,property,all,2016-01-01,224,2016,,,
+Negeri Sembilan,Kuala Pilah,property,all,2017-01-01,198,2017,224.0,-26.0,-11.61
+Negeri Sembilan,Kuala Pilah,property,all,2018-01-01,161,2018,198.0,-37.0,-18.69
+Negeri Sembilan,Kuala Pilah,property,all,2019-01-01,161,2019,161.0,0.0,0.0
+Negeri Sembilan,Kuala Pilah,property,all,2020-01-01,127,2020,161.0,-34.0,-21.12
+Negeri Sembilan,Kuala Pilah,property,all,2021-01-01,83,2021,127.0,-44.0,-34.65
+Negeri Sembilan,Kuala Pilah,property,all,2022-01-01,103,2022,83.0,20.0,24.1
+Negeri Sembilan,Kuala Pilah,property,all,2023-01-01,97,2023,103.0,-6.0,-5.83
+Negeri Sembilan,Nilai,property,all,2016-01-01,885,2016,,,
+Negeri Sembilan,Nilai,property,all,2017-01-01,893,2017,885.0,8.0,0.9
+Negeri Sembilan,Nilai,property,all,2018-01-01,722,2018,893.0,-171.0,-19.15
+Negeri Sembilan,Nilai,property,all,2019-01-01,708,2019,722.0,-14.0,-1.94
+Negeri Sembilan,Nilai,property,all,2020-01-01,531,2020,708.0,-177.0,-25.0
+Negeri Sembilan,Nilai,property,all,2021-01-01,325,2021,531.0,-206.0,-38.79
+Negeri Sembilan,Nilai,property,all,2022-01-01,276,2022,325.0,-49.0,-15.08
+Negeri Sembilan,Nilai,property,all,2023-01-01,298,2023,276.0,22.0,7.97
+Negeri Sembilan,Port Dickson,property,all,2016-01-01,278,2016,,,
+Negeri Sembilan,Port Dickson,property,all,2017-01-01,258,2017,278.0,-20.0,-7.19
+Negeri Sembilan,Port Dickson,property,all,2018-01-01,290,2018,258.0,32.0,12.4
+Negeri Sembilan,Port Dickson,property,all,2019-01-01,292,2019,290.0,2.0,0.69
+Negeri Sembilan,Port Dickson,property,all,2020-01-01,216,2020,292.0,-76.0,-26.03
+Negeri Sembilan,Port Dickson,property,all,2021-01-01,199,2021,216.0,-17.0,-7.87
+Negeri Sembilan,Port Dickson,property,all,2022-01-01,180,2022,199.0,-19.0,-9.55
+Negeri Sembilan,Port Dickson,property,all,2023-01-01,164,2023,180.0,-16.0,-8.89
+Negeri Sembilan,Rembau,property,all,2016-01-01,139,2016,,,
+Negeri Sembilan,Rembau,property,all,2017-01-01,138,2017,139.0,-1.0,-0.72
+Negeri Sembilan,Rembau,property,all,2018-01-01,127,2018,138.0,-11.0,-7.97
+Negeri Sembilan,Rembau,property,all,2019-01-01,93,2019,127.0,-34.0,-26.77
+Negeri Sembilan,Rembau,property,all,2020-01-01,44,2020,93.0,-49.0,-52.69
+Negeri Sembilan,Rembau,property,all,2021-01-01,49,2021,44.0,5.0,11.36
+Negeri Sembilan,Rembau,property,all,2022-01-01,45,2022,49.0,-4.0,-8.16
+Negeri Sembilan,Rembau,property,all,2023-01-01,56,2023,45.0,11.0,24.44
+Negeri Sembilan,Seremban,property,all,2016-01-01,1355,2016,,,
+Negeri Sembilan,Seremban,property,all,2017-01-01,1199,2017,1355.0,-156.0,-11.51
+Negeri Sembilan,Seremban,property,all,2018-01-01,1118,2018,1199.0,-81.0,-6.76
+Negeri Sembilan,Seremban,property,all,2019-01-01,944,2019,1118.0,-174.0,-15.56
+Negeri Sembilan,Seremban,property,all,2020-01-01,675,2020,944.0,-269.0,-28.5
+Negeri Sembilan,Seremban,property,all,2021-01-01,502,2021,675.0,-173.0,-25.63
+Negeri Sembilan,Seremban,property,all,2022-01-01,540,2022,502.0,38.0,7.57
+Negeri Sembilan,Seremban,property,all,2023-01-01,606,2023,540.0,66.0,12.22
+Negeri Sembilan,Tampin,property,all,2016-01-01,231,2016,,,
+Negeri Sembilan,Tampin,property,all,2017-01-01,171,2017,231.0,-60.0,-25.97
+Negeri Sembilan,Tampin,property,all,2018-01-01,177,2018,171.0,6.0,3.51
+Negeri Sembilan,Tampin,property,all,2019-01-01,140,2019,177.0,-37.0,-20.9
+Negeri Sembilan,Tampin,property,all,2020-01-01,116,2020,140.0,-24.0,-17.14
+Negeri Sembilan,Tampin,property,all,2021-01-01,90,2021,116.0,-26.0,-22.41
+Negeri Sembilan,Tampin,property,all,2022-01-01,87,2022,90.0,-3.0,-3.33
+Negeri Sembilan,Tampin,property,all,2023-01-01,54,2023,87.0,-33.0,-37.93
+Pahang,Bentong,property,all,2016-01-01,332,2016,,,
+Pahang,Bentong,property,all,2017-01-01,280,2017,332.0,-52.0,-15.66
+Pahang,Bentong,property,all,2018-01-01,481,2018,280.0,201.0,71.79
+Pahang,Bentong,property,all,2019-01-01,455,2019,481.0,-26.0,-5.41
+Pahang,Bentong,property,all,2020-01-01,235,2020,455.0,-220.0,-48.35
+Pahang,Bentong,property,all,2021-01-01,133,2021,235.0,-102.0,-43.4
+Pahang,Bentong,property,all,2022-01-01,188,2022,133.0,55.0,41.35
+Pahang,Bentong,property,all,2023-01-01,192,2023,188.0,4.0,2.13
+Pahang,Bera,property,all,2016-01-01,153,2016,,,
+Pahang,Bera,property,all,2017-01-01,100,2017,153.0,-53.0,-34.64
+Pahang,Bera,property,all,2018-01-01,109,2018,100.0,9.0,9.0
+Pahang,Bera,property,all,2019-01-01,93,2019,109.0,-16.0,-14.68
+Pahang,Bera,property,all,2020-01-01,89,2020,93.0,-4.0,-4.3
+Pahang,Bera,property,all,2021-01-01,91,2021,89.0,2.0,2.25
+Pahang,Bera,property,all,2022-01-01,93,2022,91.0,2.0,2.2
+Pahang,Bera,property,all,2023-01-01,89,2023,93.0,-4.0,-4.3
+Pahang,Cameron Highland,property,all,2016-01-01,59,2016,,,
+Pahang,Cameron Highland,property,all,2017-01-01,63,2017,59.0,4.0,6.78
+Pahang,Cameron Highland,property,all,2018-01-01,43,2018,63.0,-20.0,-31.75
+Pahang,Cameron Highland,property,all,2019-01-01,39,2019,43.0,-4.0,-9.3
+Pahang,Cameron Highlands,property,all,2020-01-01,29,2020,,,
+Pahang,Cameron Highlands,property,all,2021-01-01,17,2021,29.0,-12.0,-41.38
+Pahang,Cameron Highlands,property,all,2022-01-01,30,2022,17.0,13.0,76.47
+Pahang,Cameron Highlands,property,all,2023-01-01,31,2023,30.0,1.0,3.33
+Pahang,Jerantut,property,all,2016-01-01,176,2016,,,
+Pahang,Jerantut,property,all,2017-01-01,162,2017,176.0,-14.0,-7.95
+Pahang,Jerantut,property,all,2018-01-01,156,2018,162.0,-6.0,-3.7
+Pahang,Jerantut,property,all,2019-01-01,150,2019,156.0,-6.0,-3.85
+Pahang,Jerantut,property,all,2020-01-01,108,2020,150.0,-42.0,-28.0
+Pahang,Jerantut,property,all,2021-01-01,98,2021,108.0,-10.0,-9.26
+Pahang,Jerantut,property,all,2022-01-01,83,2022,98.0,-15.0,-15.31
+Pahang,Jerantut,property,all,2023-01-01,91,2023,83.0,8.0,9.64
+Pahang,Kuala Lipis,property,all,2016-01-01,115,2016,,,
+Pahang,Kuala Lipis,property,all,2017-01-01,112,2017,115.0,-3.0,-2.61
+Pahang,Kuala Lipis,property,all,2018-01-01,104,2018,112.0,-8.0,-7.14
+Pahang,Kuala Lipis,property,all,2019-01-01,89,2019,104.0,-15.0,-14.42
+Pahang,Kuala Lipis,property,all,2020-01-01,73,2020,89.0,-16.0,-17.98
+Pahang,Kuala Lipis,property,all,2021-01-01,65,2021,73.0,-8.0,-10.96
+Pahang,Kuala Lipis,property,all,2022-01-01,60,2022,65.0,-5.0,-7.69
+Pahang,Kuala Lipis,property,all,2023-01-01,58,2023,60.0,-2.0,-3.33
+Pahang,Kuantan,property,all,2016-01-01,1341,2016,,,
+Pahang,Kuantan,property,all,2017-01-01,1320,2017,1341.0,-21.0,-1.57
+Pahang,Kuantan,property,all,2018-01-01,1313,2018,1320.0,-7.0,-0.53
+Pahang,Kuantan,property,all,2019-01-01,1017,2019,1313.0,-296.0,-22.54
+Pahang,Kuantan,property,all,2020-01-01,745,2020,1017.0,-272.0,-26.75
+Pahang,Kuantan,property,all,2021-01-01,696,2021,745.0,-49.0,-6.58
+Pahang,Kuantan,property,all,2022-01-01,561,2022,696.0,-135.0,-19.4
+Pahang,Kuantan,property,all,2023-01-01,483,2023,561.0,-78.0,-13.9
+Pahang,Maran,property,all,2016-01-01,219,2016,,,
+Pahang,Maran,property,all,2017-01-01,218,2017,219.0,-1.0,-0.46
+Pahang,Maran,property,all,2018-01-01,217,2018,218.0,-1.0,-0.46
+Pahang,Maran,property,all,2019-01-01,212,2019,217.0,-5.0,-2.3
+Pahang,Maran,property,all,2020-01-01,144,2020,212.0,-68.0,-32.08
+Pahang,Maran,property,all,2021-01-01,121,2021,144.0,-23.0,-15.97
+Pahang,Maran,property,all,2022-01-01,107,2022,121.0,-14.0,-11.57
+Pahang,Maran,property,all,2023-01-01,111,2023,107.0,4.0,3.74
+Pahang,Pekan,property,all,2016-01-01,151,2016,,,
+Pahang,Pekan,property,all,2017-01-01,138,2017,151.0,-13.0,-8.61
+Pahang,Pekan,property,all,2018-01-01,115,2018,138.0,-23.0,-16.67
+Pahang,Pekan,property,all,2019-01-01,177,2019,115.0,62.0,53.91
+Pahang,Pekan,property,all,2020-01-01,162,2020,177.0,-15.0,-8.47
+Pahang,Pekan,property,all,2021-01-01,122,2021,162.0,-40.0,-24.69
+Pahang,Pekan,property,all,2022-01-01,84,2022,122.0,-38.0,-31.15
+Pahang,Pekan,property,all,2023-01-01,80,2023,84.0,-4.0,-4.76
+Pahang,Raub,property,all,2016-01-01,94,2016,,,
+Pahang,Raub,property,all,2017-01-01,103,2017,94.0,9.0,9.57
+Pahang,Raub,property,all,2018-01-01,87,2018,103.0,-16.0,-15.53
+Pahang,Raub,property,all,2019-01-01,83,2019,87.0,-4.0,-4.6
+Pahang,Raub,property,all,2020-01-01,76,2020,83.0,-7.0,-8.43
+Pahang,Raub,property,all,2021-01-01,51,2021,76.0,-25.0,-32.89
+Pahang,Raub,property,all,2022-01-01,66,2022,51.0,15.0,29.41
+Pahang,Raub,property,all,2023-01-01,75,2023,66.0,9.0,13.64
+Pahang,Rompin,property,all,2016-01-01,253,2016,,,
+Pahang,Rompin,property,all,2017-01-01,182,2017,253.0,-71.0,-28.06
+Pahang,Rompin,property,all,2018-01-01,142,2018,182.0,-40.0,-21.98
+Pahang,Rompin,property,all,2019-01-01,133,2019,142.0,-9.0,-6.34
+Pahang,Rompin,property,all,2020-01-01,84,2020,133.0,-49.0,-36.84
+Pahang,Rompin,property,all,2021-01-01,100,2021,84.0,16.0,19.05
+Pahang,Rompin,property,all,2022-01-01,80,2022,100.0,-20.0,-20.0
+Pahang,Rompin,property,all,2023-01-01,99,2023,80.0,19.0,23.75
+Pahang,Temerloh,property,all,2016-01-01,233,2016,,,
+Pahang,Temerloh,property,all,2017-01-01,273,2017,233.0,40.0,17.17
+Pahang,Temerloh,property,all,2018-01-01,245,2018,273.0,-28.0,-10.26
+Pahang,Temerloh,property,all,2019-01-01,228,2019,245.0,-17.0,-6.94
+Pahang,Temerloh,property,all,2020-01-01,181,2020,228.0,-47.0,-20.61
+Pahang,Temerloh,property,all,2021-01-01,149,2021,181.0,-32.0,-17.68
+Pahang,Temerloh,property,all,2022-01-01,137,2022,149.0,-12.0,-8.05
+Pahang,Temerloh,property,all,2023-01-01,157,2023,137.0,20.0,14.6
+Perak,Batu Gajah,property,all,2016-01-01,92,2016,,,
+Perak,Batu Gajah,property,all,2017-01-01,68,2017,92.0,-24.0,-26.09
+Perak,Batu Gajah,property,all,2018-01-01,75,2018,68.0,7.0,10.29
+Perak,Batu Gajah,property,all,2019-01-01,80,2019,75.0,5.0,6.67
+Perak,Batu Gajah,property,all,2020-01-01,65,2020,80.0,-15.0,-18.75
+Perak,Batu Gajah,property,all,2021-01-01,57,2021,65.0,-8.0,-12.31
+Perak,Batu Gajah,property,all,2022-01-01,78,2022,57.0,21.0,36.84
+Perak,Batu Gajah,property,all,2023-01-01,86,2023,78.0,8.0,10.26
+Perak,Gerik,property,all,2016-01-01,71,2016,,,
+Perak,Gerik,property,all,2017-01-01,62,2017,71.0,-9.0,-12.68
+Perak,Gerik,property,all,2018-01-01,54,2018,62.0,-8.0,-12.9
+Perak,Gerik,property,all,2019-01-01,66,2019,54.0,12.0,22.22
+Perak,Gerik,property,all,2020-01-01,59,2020,66.0,-7.0,-10.61
+Perak,Gerik,property,all,2021-01-01,37,2021,59.0,-22.0,-37.29
+Perak,Gerik,property,all,2022-01-01,48,2022,37.0,11.0,29.73
+Perak,Gerik,property,all,2023-01-01,50,2023,48.0,2.0,4.17
+Perak,Hilir Perak,property,all,2016-01-01,462,2016,,,
+Perak,Hilir Perak,property,all,2017-01-01,432,2017,462.0,-30.0,-6.49
+Perak,Hilir Perak,property,all,2018-01-01,447,2018,432.0,15.0,3.47
+Perak,Hilir Perak,property,all,2019-01-01,441,2019,447.0,-6.0,-1.34
+Perak,Hilir Perak,property,all,2020-01-01,350,2020,441.0,-91.0,-20.63
+Perak,Hilir Perak,property,all,2021-01-01,289,2021,350.0,-61.0,-17.43
+Perak,Hilir Perak,property,all,2022-01-01,266,2022,289.0,-23.0,-7.96
+Perak,Hilir Perak,property,all,2023-01-01,335,2023,266.0,69.0,25.94
+Perak,Ipoh,property,all,2016-01-01,1693,2016,,,
+Perak,Ipoh,property,all,2017-01-01,1631,2017,1693.0,-62.0,-3.66
+Perak,Ipoh,property,all,2018-01-01,1587,2018,1631.0,-44.0,-2.7
+Perak,Ipoh,property,all,2019-01-01,1420,2019,1587.0,-167.0,-10.52
+Perak,Ipoh,property,all,2020-01-01,842,2020,1420.0,-578.0,-40.7
+Perak,Ipoh,property,all,2021-01-01,784,2021,842.0,-58.0,-6.89
+Perak,Ipoh,property,all,2022-01-01,1050,2022,784.0,266.0,33.93
+Perak,Ipoh,property,all,2023-01-01,1077,2023,1050.0,27.0,2.57
+Perak,Kampar,property,all,2016-01-01,154,2016,,,
+Perak,Kampar,property,all,2017-01-01,146,2017,154.0,-8.0,-5.19
+Perak,Kampar,property,all,2018-01-01,160,2018,146.0,14.0,9.59
+Perak,Kampar,property,all,2019-01-01,167,2019,160.0,7.0,4.38
+Perak,Kampar,property,all,2020-01-01,85,2020,167.0,-82.0,-49.1
+Perak,Kampar,property,all,2021-01-01,70,2021,85.0,-15.0,-17.65
+Perak,Kampar,property,all,2022-01-01,78,2022,70.0,8.0,11.43
+Perak,Kampar,property,all,2023-01-01,80,2023,78.0,2.0,2.56
+Perak,Kerian,property,all,2016-01-01,178,2016,,,
+Perak,Kerian,property,all,2017-01-01,156,2017,178.0,-22.0,-12.36
+Perak,Kerian,property,all,2018-01-01,155,2018,156.0,-1.0,-0.64
+Perak,Kerian,property,all,2019-01-01,161,2019,155.0,6.0,3.87
+Perak,Kerian,property,all,2020-01-01,135,2020,161.0,-26.0,-16.15
+Perak,Kerian,property,all,2021-01-01,142,2021,135.0,7.0,5.19
+Perak,Kerian,property,all,2022-01-01,124,2022,142.0,-18.0,-12.68
+Perak,Kerian,property,all,2023-01-01,138,2023,124.0,14.0,11.29
+Perak,Kuala Kangsar,property,all,2016-01-01,144,2016,,,
+Perak,Kuala Kangsar,property,all,2017-01-01,118,2017,144.0,-26.0,-18.06
+Perak,Kuala Kangsar,property,all,2018-01-01,96,2018,118.0,-22.0,-18.64
+Perak,Kuala Kangsar,property,all,2019-01-01,95,2019,96.0,-1.0,-1.04
+Perak,Kuala Kangsar,property,all,2020-01-01,70,2020,95.0,-25.0,-26.32
+Perak,Kuala Kangsar,property,all,2021-01-01,45,2021,70.0,-25.0,-35.71
+Perak,Kuala Kangsar,property,all,2022-01-01,73,2022,45.0,28.0,62.22
+Perak,Kuala Kangsar,property,all,2023-01-01,75,2023,73.0,2.0,2.74
+Perak,Manjung,property,all,2016-01-01,574,2016,,,
+Perak,Manjung,property,all,2017-01-01,506,2017,574.0,-68.0,-11.85
+Perak,Manjung,property,all,2018-01-01,515,2018,506.0,9.0,1.78
+Perak,Manjung,property,all,2019-01-01,397,2019,515.0,-118.0,-22.91
+Perak,Manjung,property,all,2020-01-01,283,2020,397.0,-114.0,-28.72
+Perak,Manjung,property,all,2021-01-01,229,2021,283.0,-54.0,-19.08
+Perak,Manjung,property,all,2022-01-01,193,2022,229.0,-36.0,-15.72
+Perak,Manjung,property,all,2023-01-01,213,2023,193.0,20.0,10.36
+Perak,Pengkalan Hulu,property,all,2016-01-01,26,2016,,,
+Perak,Pengkalan Hulu,property,all,2017-01-01,13,2017,26.0,-13.0,-50.0
+Perak,Pengkalan Hulu,property,all,2018-01-01,10,2018,13.0,-3.0,-23.08
+Perak,Pengkalan Hulu,property,all,2019-01-01,12,2019,10.0,2.0,20.0
+Perak,Pengkalan Hulu,property,all,2020-01-01,8,2020,12.0,-4.0,-33.33
+Perak,Pengkalan Hulu,property,all,2021-01-01,9,2021,8.0,1.0,12.5
+Perak,Pengkalan Hulu,property,all,2022-01-01,9,2022,9.0,0.0,0.0
+Perak,Pengkalan Hulu,property,all,2023-01-01,13,2023,9.0,4.0,44.44
+Perak,Perak Tengah,property,all,2016-01-01,187,2016,,,
+Perak,Perak Tengah,property,all,2017-01-01,116,2017,187.0,-71.0,-37.97
+Perak,Perak Tengah,property,all,2018-01-01,81,2018,116.0,-35.0,-30.17
+Perak,Perak Tengah,property,all,2019-01-01,98,2019,81.0,17.0,20.99
+Perak,Perak Tengah,property,all,2020-01-01,82,2020,98.0,-16.0,-16.33
+Perak,Perak Tengah,property,all,2021-01-01,71,2021,82.0,-11.0,-13.41
+Perak,Perak Tengah,property,all,2022-01-01,94,2022,71.0,23.0,32.39
+Perak,Perak Tengah,property,all,2023-01-01,114,2023,94.0,20.0,21.28
+Perak,Selama,property,all,2016-01-01,30,2016,,,
+Perak,Selama,property,all,2017-01-01,23,2017,30.0,-7.0,-23.33
+Perak,Selama,property,all,2018-01-01,25,2018,23.0,2.0,8.7
+Perak,Selama,property,all,2019-01-01,33,2019,25.0,8.0,32.0
+Perak,Selama,property,all,2020-01-01,24,2020,33.0,-9.0,-27.27
+Perak,Selama,property,all,2021-01-01,22,2021,24.0,-2.0,-8.33
+Perak,Selama,property,all,2022-01-01,19,2022,22.0,-3.0,-13.64
+Perak,Selama,property,all,2023-01-01,28,2023,19.0,9.0,47.37
+Perak,Sungai Siput,property,all,2016-01-01,99,2016,,,
+Perak,Sungai Siput,property,all,2017-01-01,104,2017,99.0,5.0,5.05
+Perak,Sungai Siput,property,all,2018-01-01,84,2018,104.0,-20.0,-19.23
+Perak,Sungai Siput,property,all,2019-01-01,85,2019,84.0,1.0,1.19
+Perak,Sungai Siput,property,all,2020-01-01,58,2020,85.0,-27.0,-31.76
+Perak,Sungai Siput,property,all,2021-01-01,37,2021,58.0,-21.0,-36.21
+Perak,Sungai Siput,property,all,2022-01-01,55,2022,37.0,18.0,48.65
+Perak,Sungai Siput,property,all,2023-01-01,62,2023,55.0,7.0,12.73
+Perak,Taiping,property,all,2016-01-01,584,2016,,,
+Perak,Taiping,property,all,2017-01-01,561,2017,584.0,-23.0,-3.94
+Perak,Taiping,property,all,2018-01-01,574,2018,561.0,13.0,2.32
+Perak,Taiping,property,all,2019-01-01,501,2019,574.0,-73.0,-12.72
+Perak,Taiping,property,all,2020-01-01,362,2020,501.0,-139.0,-27.74
+Perak,Taiping,property,all,2021-01-01,242,2021,362.0,-120.0,-33.15
+Perak,Taiping,property,all,2022-01-01,261,2022,242.0,19.0,7.85
+Perak,Taiping,property,all,2023-01-01,243,2023,261.0,-18.0,-6.9
+Perak,Tanjong Malim,property,all,2016-01-01,112,2016,,,
+Perak,Tanjong Malim,property,all,2017-01-01,117,2017,112.0,5.0,4.46
+Perak,Tanjong Malim,property,all,2018-01-01,122,2018,117.0,5.0,4.27
+Perak,Tanjong Malim,property,all,2019-01-01,117,2019,122.0,-5.0,-4.1
+Perak,Tanjong Malim,property,all,2020-01-01,79,2020,117.0,-38.0,-32.48
+Perak,Tanjong Malim,property,all,2021-01-01,57,2021,79.0,-22.0,-27.85
+Perak,Tanjong Malim,property,all,2022-01-01,62,2022,57.0,5.0,8.77
+Perak,Tanjong Malim,property,all,2023-01-01,71,2023,62.0,9.0,14.52
+Perak,Tapah,property,all,2016-01-01,140,2016,,,
+Perak,Tapah,property,all,2017-01-01,133,2017,140.0,-7.0,-5.0
+Perak,Tapah,property,all,2018-01-01,138,2018,133.0,5.0,3.76
+Perak,Tapah,property,all,2019-01-01,136,2019,138.0,-2.0,-1.45
+Perak,Tapah,property,all,2020-01-01,97,2020,136.0,-39.0,-28.68
+Perak,Tapah,property,all,2021-01-01,87,2021,97.0,-10.0,-10.31
+Perak,Tapah,property,all,2022-01-01,80,2022,87.0,-7.0,-8.05
+Perak,Tapah,property,all,2023-01-01,135,2023,80.0,55.0,68.75
+Perlis,Arau,property,all,2016-01-01,120,2016,,,
+Perlis,Arau,property,all,2017-01-01,98,2017,120.0,-22.0,-18.33
+Perlis,Arau,property,all,2018-01-01,108,2018,98.0,10.0,10.2
+Perlis,Arau,property,all,2019-01-01,107,2019,108.0,-1.0,-0.93
+Perlis,Arau,property,all,2020-01-01,99,2020,107.0,-8.0,-7.48
+Perlis,Arau,property,all,2021-01-01,63,2021,99.0,-36.0,-36.36
+Perlis,Arau,property,all,2022-01-01,56,2022,63.0,-7.0,-11.11
+Perlis,Arau,property,all,2023-01-01,69,2023,56.0,13.0,23.21
+Perlis,Kangar,property,all,2016-01-01,361,2016,,,
+Perlis,Kangar,property,all,2017-01-01,297,2017,361.0,-64.0,-17.73
+Perlis,Kangar,property,all,2018-01-01,267,2018,297.0,-30.0,-10.1
+Perlis,Kangar,property,all,2019-01-01,247,2019,267.0,-20.0,-7.49
+Perlis,Kangar,property,all,2020-01-01,262,2020,247.0,15.0,6.07
+Perlis,Kangar,property,all,2021-01-01,244,2021,262.0,-18.0,-6.87
+Perlis,Kangar,property,all,2022-01-01,181,2022,244.0,-63.0,-25.82
+Perlis,Kangar,property,all,2023-01-01,142,2023,181.0,-39.0,-21.55
+Perlis,Padang Besar,property,all,2016-01-01,65,2016,,,
+Perlis,Padang Besar,property,all,2017-01-01,77,2017,65.0,12.0,18.46
+Perlis,Padang Besar,property,all,2018-01-01,62,2018,77.0,-15.0,-19.48
+Perlis,Padang Besar,property,all,2019-01-01,52,2019,62.0,-10.0,-16.13
+Perlis,Padang Besar,property,all,2020-01-01,51,2020,52.0,-1.0,-1.92
+Perlis,Padang Besar,property,all,2021-01-01,49,2021,51.0,-2.0,-3.92
+Perlis,Padang Besar,property,all,2022-01-01,83,2022,49.0,34.0,69.39
+Perlis,Padang Besar,property,all,2023-01-01,53,2023,83.0,-30.0,-36.14
+Pulau Pinang,Barat Daya,property,all,2016-01-01,448,2016,,,
+Pulau Pinang,Barat Daya,property,all,2017-01-01,432,2017,448.0,-16.0,-3.57
+Pulau Pinang,Barat Daya,property,all,2018-01-01,427,2018,432.0,-5.0,-1.16
+Pulau Pinang,Barat Daya,property,all,2019-01-01,434,2019,427.0,7.0,1.64
+Pulau Pinang,Barat Daya,property,all,2020-01-01,285,2020,434.0,-149.0,-34.33
+Pulau Pinang,Barat Daya,property,all,2021-01-01,288,2021,285.0,3.0,1.05
+Pulau Pinang,Barat Daya,property,all,2022-01-01,266,2022,288.0,-22.0,-7.64
+Pulau Pinang,Barat Daya,property,all,2023-01-01,321,2023,266.0,55.0,20.68
+Pulau Pinang,Seberang Perai Selatan,property,all,2016-01-01,370,2016,,,
+Pulau Pinang,Seberang Perai Selatan,property,all,2017-01-01,335,2017,370.0,-35.0,-9.46
+Pulau Pinang,Seberang Perai Selatan,property,all,2018-01-01,291,2018,335.0,-44.0,-13.13
+Pulau Pinang,Seberang Perai Selatan,property,all,2019-01-01,340,2019,291.0,49.0,16.84
+Pulau Pinang,Seberang Perai Selatan,property,all,2020-01-01,220,2020,340.0,-120.0,-35.29
+Pulau Pinang,Seberang Perai Selatan,property,all,2021-01-01,246,2021,220.0,26.0,11.82
+Pulau Pinang,Seberang Perai Selatan,property,all,2022-01-01,223,2022,246.0,-23.0,-9.35
+Pulau Pinang,Seberang Perai Selatan,property,all,2023-01-01,259,2023,223.0,36.0,16.14
+Pulau Pinang,Seberang Perai Tengah,property,all,2016-01-01,1872,2016,,,
+Pulau Pinang,Seberang Perai Tengah,property,all,2017-01-01,1581,2017,1872.0,-291.0,-15.54
+Pulau Pinang,Seberang Perai Tengah,property,all,2018-01-01,1476,2018,1581.0,-105.0,-6.64
+Pulau Pinang,Seberang Perai Tengah,property,all,2019-01-01,1529,2019,1476.0,53.0,3.59
+Pulau Pinang,Seberang Perai Tengah,property,all,2020-01-01,982,2020,1529.0,-547.0,-35.78
+Pulau Pinang,Seberang Perai Tengah,property,all,2021-01-01,931,2021,982.0,-51.0,-5.19
+Pulau Pinang,Seberang Perai Tengah,property,all,2022-01-01,702,2022,931.0,-229.0,-24.6
+Pulau Pinang,Seberang Perai Tengah,property,all,2023-01-01,733,2023,702.0,31.0,4.42
+Pulau Pinang,Seberang Perai Utara,property,all,2016-01-01,988,2016,,,
+Pulau Pinang,Seberang Perai Utara,property,all,2017-01-01,948,2017,988.0,-40.0,-4.05
+Pulau Pinang,Seberang Perai Utara,property,all,2018-01-01,853,2018,948.0,-95.0,-10.02
+Pulau Pinang,Seberang Perai Utara,property,all,2019-01-01,814,2019,853.0,-39.0,-4.57
+Pulau Pinang,Seberang Perai Utara,property,all,2020-01-01,612,2020,814.0,-202.0,-24.82
+Pulau Pinang,Seberang Perai Utara,property,all,2021-01-01,554,2021,612.0,-58.0,-9.48
+Pulau Pinang,Seberang Perai Utara,property,all,2022-01-01,512,2022,554.0,-42.0,-7.58
+Pulau Pinang,Seberang Perai Utara,property,all,2023-01-01,568,2023,512.0,56.0,10.94
+Pulau Pinang,Timur Laut,property,all,2016-01-01,1400,2016,,,
+Pulau Pinang,Timur Laut,property,all,2017-01-01,1178,2017,1400.0,-222.0,-15.86
+Pulau Pinang,Timur Laut,property,all,2018-01-01,1080,2018,1178.0,-98.0,-8.32
+Pulau Pinang,Timur Laut,property,all,2019-01-01,1045,2019,1080.0,-35.0,-3.24
+Pulau Pinang,Timur Laut,property,all,2020-01-01,912,2020,1045.0,-133.0,-12.73
+Pulau Pinang,Timur Laut,property,all,2021-01-01,880,2021,912.0,-32.0,-3.51
+Pulau Pinang,Timur Laut,property,all,2022-01-01,813,2022,880.0,-67.0,-7.61
+Pulau Pinang,Timur Laut,property,all,2023-01-01,903,2023,813.0,90.0,11.07
+Sabah,Beaufort,property,all,2016-01-01,119,2016,,,
+Sabah,Beaufort,property,all,2017-01-01,136,2017,119.0,17.0,14.29
+Sabah,Beaufort,property,all,2018-01-01,176,2018,136.0,40.0,29.41
+Sabah,Beaufort,property,all,2019-01-01,137,2019,176.0,-39.0,-22.16
+Sabah,Beaufort,property,all,2020-01-01,74,2020,137.0,-63.0,-45.99
+Sabah,Beaufort,property,all,2021-01-01,42,2021,74.0,-32.0,-43.24
+Sabah,Beaufort,property,all,2022-01-01,43,2022,42.0,1.0,2.38
+Sabah,Beaufort,property,all,2023-01-01,52,2023,43.0,9.0,20.93
+Sabah,Beluran,property,all,2016-01-01,42,2016,,,
+Sabah,Beluran,property,all,2017-01-01,56,2017,42.0,14.0,33.33
+Sabah,Beluran,property,all,2018-01-01,61,2018,56.0,5.0,8.93
+Sabah,Beluran,property,all,2019-01-01,47,2019,61.0,-14.0,-22.95
+Sabah,Beluran,property,all,2020-01-01,34,2020,47.0,-13.0,-27.66
+Sabah,Beluran,property,all,2021-01-01,40,2021,34.0,6.0,17.65
+Sabah,Beluran,property,all,2022-01-01,43,2022,40.0,3.0,7.5
+Sabah,Beluran,property,all,2023-01-01,65,2023,43.0,22.0,51.16
+Sabah,Keningau,property,all,2016-01-01,169,2016,,,
+Sabah,Keningau,property,all,2017-01-01,161,2017,169.0,-8.0,-4.73
+Sabah,Keningau,property,all,2018-01-01,148,2018,161.0,-13.0,-8.07
+Sabah,Keningau,property,all,2019-01-01,143,2019,148.0,-5.0,-3.38
+Sabah,Keningau,property,all,2020-01-01,118,2020,143.0,-25.0,-17.48
+Sabah,Keningau,property,all,2021-01-01,90,2021,118.0,-28.0,-23.73
+Sabah,Keningau,property,all,2022-01-01,75,2022,90.0,-15.0,-16.67
+Sabah,Keningau,property,all,2023-01-01,110,2023,75.0,35.0,46.67
+Sabah,Kota Belud,property,all,2016-01-01,132,2016,,,
+Sabah,Kota Belud,property,all,2017-01-01,184,2017,132.0,52.0,39.39
+Sabah,Kota Belud,property,all,2018-01-01,161,2018,184.0,-23.0,-12.5
+Sabah,Kota Belud,property,all,2019-01-01,121,2019,161.0,-40.0,-24.84
+Sabah,Kota Belud,property,all,2020-01-01,70,2020,121.0,-51.0,-42.15
+Sabah,Kota Belud,property,all,2021-01-01,95,2021,70.0,25.0,35.71
+Sabah,Kota Belud,property,all,2022-01-01,33,2022,95.0,-62.0,-65.26
+Sabah,Kota Belud,property,all,2023-01-01,20,2023,33.0,-13.0,-39.39
+Sabah,Kota Kinabalu,property,all,2016-01-01,1245,2016,,,
+Sabah,Kota Kinabalu,property,all,2017-01-01,1387,2017,1245.0,142.0,11.41
+Sabah,Kota Kinabalu,property,all,2018-01-01,1333,2018,1387.0,-54.0,-3.89
+Sabah,Kota Kinabalu,property,all,2019-01-01,1122,2019,1333.0,-211.0,-15.83
+Sabah,Kota Kinabalu,property,all,2020-01-01,893,2020,1122.0,-229.0,-20.41
+Sabah,Kota Kinabalu,property,all,2021-01-01,861,2021,893.0,-32.0,-3.58
+Sabah,Kota Kinabalu,property,all,2022-01-01,1165,2022,861.0,304.0,35.31
+Sabah,Kota Kinabalu,property,all,2023-01-01,915,2023,1165.0,-250.0,-21.46
+Sabah,Kota Kinabatangan,property,all,2016-01-01,39,2016,,,
+Sabah,Kota Kinabatangan,property,all,2017-01-01,47,2017,39.0,8.0,20.51
+Sabah,Kota Kinabatangan,property,all,2018-01-01,64,2018,47.0,17.0,36.17
+Sabah,Kota Kinabatangan,property,all,2019-01-01,65,2019,64.0,1.0,1.56
+Sabah,Kota Kinabatangan,property,all,2020-01-01,46,2020,65.0,-19.0,-29.23
+Sabah,Kota Kinabatangan,property,all,2021-01-01,60,2021,46.0,14.0,30.43
+Sabah,Kota Kinabatangan,property,all,2022-01-01,52,2022,60.0,-8.0,-13.33
+Sabah,Kota Kinabatangan,property,all,2023-01-01,74,2023,52.0,22.0,42.31
+Sabah,Kota Marudu,property,all,2016-01-01,51,2016,,,
+Sabah,Kota Marudu,property,all,2017-01-01,86,2017,51.0,35.0,68.63
+Sabah,Kota Marudu,property,all,2018-01-01,107,2018,86.0,21.0,24.42
+Sabah,Kota Marudu,property,all,2019-01-01,97,2019,107.0,-10.0,-9.35
+Sabah,Kota Marudu,property,all,2020-01-01,52,2020,97.0,-45.0,-46.39
+Sabah,Kota Marudu,property,all,2021-01-01,54,2021,52.0,2.0,3.85
+Sabah,Kota Marudu,property,all,2022-01-01,66,2022,54.0,12.0,22.22
+Sabah,Kota Marudu,property,all,2023-01-01,67,2023,66.0,1.0,1.52
+Sabah,Kudat,property,all,2016-01-01,51,2016,,,
+Sabah,Kudat,property,all,2017-01-01,42,2017,51.0,-9.0,-17.65
+Sabah,Kudat,property,all,2018-01-01,42,2018,42.0,0.0,0.0
+Sabah,Kudat,property,all,2019-01-01,42,2019,42.0,0.0,0.0
+Sabah,Kudat,property,all,2020-01-01,27,2020,42.0,-15.0,-35.71
+Sabah,Kudat,property,all,2021-01-01,16,2021,27.0,-11.0,-40.74
+Sabah,Kudat,property,all,2022-01-01,26,2022,16.0,10.0,62.5
+Sabah,Kudat,property,all,2023-01-01,42,2023,26.0,16.0,61.54
+Sabah,Kunak,property,all,2016-01-01,74,2016,,,
+Sabah,Kunak,property,all,2017-01-01,87,2017,74.0,13.0,17.57
+Sabah,Kunak,property,all,2018-01-01,42,2018,87.0,-45.0,-51.72
+Sabah,Kunak,property,all,2019-01-01,66,2019,42.0,24.0,57.14
+Sabah,Kunak,property,all,2020-01-01,39,2020,66.0,-27.0,-40.91
+Sabah,Kunak,property,all,2021-01-01,37,2021,39.0,-2.0,-5.13
+Sabah,Kunak,property,all,2022-01-01,29,2022,37.0,-8.0,-21.62
+Sabah,Kunak,property,all,2023-01-01,42,2023,29.0,13.0,44.83
+Sabah,Lahad Datu,property,all,2016-01-01,258,2016,,,
+Sabah,Lahad Datu,property,all,2017-01-01,236,2017,258.0,-22.0,-8.53
+Sabah,Lahad Datu,property,all,2018-01-01,249,2018,236.0,13.0,5.51
+Sabah,Lahad Datu,property,all,2019-01-01,267,2019,249.0,18.0,7.23
+Sabah,Lahad Datu,property,all,2020-01-01,179,2020,267.0,-88.0,-32.96
+Sabah,Lahad Datu,property,all,2021-01-01,138,2021,179.0,-41.0,-22.91
+Sabah,Lahad Datu,property,all,2022-01-01,121,2022,138.0,-17.0,-12.32
+Sabah,Lahad Datu,property,all,2023-01-01,162,2023,121.0,41.0,33.88
+Sabah,Papar,property,all,2016-01-01,112,2016,,,
+Sabah,Papar,property,all,2017-01-01,262,2017,112.0,150.0,133.93
+Sabah,Papar,property,all,2018-01-01,294,2018,262.0,32.0,12.21
+Sabah,Papar,property,all,2019-01-01,301,2019,294.0,7.0,2.38
+Sabah,Papar,property,all,2020-01-01,114,2020,301.0,-187.0,-62.13
+Sabah,Papar,property,all,2021-01-01,78,2021,114.0,-36.0,-31.58
+Sabah,Papar,property,all,2022-01-01,90,2022,78.0,12.0,15.38
+Sabah,Papar,property,all,2023-01-01,124,2023,90.0,34.0,37.78
+Sabah,Penampang,property,all,2016-01-01,383,2016,,,
+Sabah,Penampang,property,all,2017-01-01,538,2017,383.0,155.0,40.47
+Sabah,Penampang,property,all,2018-01-01,526,2018,538.0,-12.0,-2.23
+Sabah,Penampang,property,all,2019-01-01,496,2019,526.0,-30.0,-5.7
+Sabah,Penampang,property,all,2020-01-01,261,2020,496.0,-235.0,-47.38
+Sabah,Penampang,property,all,2021-01-01,213,2021,261.0,-48.0,-18.39
+Sabah,Penampang,property,all,2022-01-01,231,2022,213.0,18.0,8.45
+Sabah,Penampang,property,all,2023-01-01,216,2023,231.0,-15.0,-6.49
+Sabah,Ranau,property,all,2016-01-01,77,2016,,,
+Sabah,Ranau,property,all,2017-01-01,57,2017,77.0,-20.0,-25.97
+Sabah,Ranau,property,all,2018-01-01,56,2018,57.0,-1.0,-1.75
+Sabah,Ranau,property,all,2019-01-01,79,2019,56.0,23.0,41.07
+Sabah,Ranau,property,all,2020-01-01,46,2020,79.0,-33.0,-41.77
+Sabah,Ranau,property,all,2021-01-01,49,2021,46.0,3.0,6.52
+Sabah,Ranau,property,all,2022-01-01,66,2022,49.0,17.0,34.69
+Sabah,Ranau,property,all,2023-01-01,70,2023,66.0,4.0,6.06
+Sabah,Sandakan,property,all,2016-01-01,430,2016,,,
+Sabah,Sandakan,property,all,2017-01-01,547,2017,430.0,117.0,27.21
+Sabah,Sandakan,property,all,2018-01-01,587,2018,547.0,40.0,7.31
+Sabah,Sandakan,property,all,2019-01-01,533,2019,587.0,-54.0,-9.2
+Sabah,Sandakan,property,all,2020-01-01,481,2020,533.0,-52.0,-9.76
+Sabah,Sandakan,property,all,2021-01-01,436,2021,481.0,-45.0,-9.36
+Sabah,Sandakan,property,all,2022-01-01,521,2022,436.0,85.0,19.5
+Sabah,Sandakan,property,all,2023-01-01,494,2023,521.0,-27.0,-5.18
+Sabah,Semporna,property,all,2016-01-01,208,2016,,,
+Sabah,Semporna,property,all,2017-01-01,321,2017,208.0,113.0,54.33
+Sabah,Semporna,property,all,2018-01-01,378,2018,321.0,57.0,17.76
+Sabah,Semporna,property,all,2019-01-01,312,2019,378.0,-66.0,-17.46
+Sabah,Semporna,property,all,2020-01-01,214,2020,312.0,-98.0,-31.41
+Sabah,Semporna,property,all,2021-01-01,235,2021,214.0,21.0,9.81
+Sabah,Semporna,property,all,2022-01-01,133,2022,235.0,-102.0,-43.4
+Sabah,Semporna,property,all,2023-01-01,184,2023,133.0,51.0,38.35
+Sabah,Sipitang,property,all,2016-01-01,102,2016,,,
+Sabah,Sipitang,property,all,2017-01-01,96,2017,102.0,-6.0,-5.88
+Sabah,Sipitang,property,all,2018-01-01,91,2018,96.0,-5.0,-5.21
+Sabah,Sipitang,property,all,2019-01-01,92,2019,91.0,1.0,1.1
+Sabah,Sipitang,property,all,2020-01-01,40,2020,92.0,-52.0,-56.52
+Sabah,Sipitang,property,all,2021-01-01,52,2021,40.0,12.0,30.0
+Sabah,Sipitang,property,all,2022-01-01,26,2022,52.0,-26.0,-50.0
+Sabah,Sipitang,property,all,2023-01-01,18,2023,26.0,-8.0,-30.77
+Sabah,Tawau,property,all,2016-01-01,896,2016,,,
+Sabah,Tawau,property,all,2017-01-01,910,2017,896.0,14.0,1.56
+Sabah,Tawau,property,all,2018-01-01,871,2018,910.0,-39.0,-4.29
+Sabah,Tawau,property,all,2019-01-01,840,2019,871.0,-31.0,-3.56
+Sabah,Tawau,property,all,2020-01-01,389,2020,840.0,-451.0,-53.69
+Sabah,Tawau,property,all,2021-01-01,315,2021,389.0,-74.0,-19.02
+Sabah,Tawau,property,all,2022-01-01,690,2022,315.0,375.0,119.05
+Sabah,Tawau,property,all,2023-01-01,720,2023,690.0,30.0,4.35
+Sabah,Tenom,property,all,2016-01-01,41,2016,,,
+Sabah,Tenom,property,all,2017-01-01,35,2017,41.0,-6.0,-14.63
+Sabah,Tenom,property,all,2018-01-01,36,2018,35.0,1.0,2.86
+Sabah,Tenom,property,all,2019-01-01,30,2019,36.0,-6.0,-16.67
+Sabah,Tenom,property,all,2020-01-01,19,2020,30.0,-11.0,-36.67
+Sabah,Tenom,property,all,2021-01-01,30,2021,19.0,11.0,57.89
+Sabah,Tenom,property,all,2022-01-01,35,2022,30.0,5.0,16.67
+Sabah,Tenom,property,all,2023-01-01,38,2023,35.0,3.0,8.57
+Sabah,Tuaran,property,all,2016-01-01,99,2016,,,
+Sabah,Tuaran,property,all,2017-01-01,103,2017,99.0,4.0,4.04
+Sabah,Tuaran,property,all,2018-01-01,108,2018,103.0,5.0,4.85
+Sabah,Tuaran,property,all,2019-01-01,84,2019,108.0,-24.0,-22.22
+Sabah,Tuaran,property,all,2020-01-01,57,2020,84.0,-27.0,-32.14
+Sabah,Tuaran,property,all,2021-01-01,49,2021,57.0,-8.0,-14.04
+Sabah,Tuaran,property,all,2022-01-01,53,2022,49.0,4.0,8.16
+Sabah,Tuaran,property,all,2023-01-01,61,2023,53.0,8.0,15.09
+Sabah,W.P. Labuan,property,all,2016-01-01,192,2016,,,
+Sabah,W.P. Labuan,property,all,2017-01-01,184,2017,192.0,-8.0,-4.17
+Sabah,W.P. Labuan,property,all,2018-01-01,241,2018,184.0,57.0,30.98
+Sabah,W.P. Labuan,property,all,2019-01-01,232,2019,241.0,-9.0,-3.73
+Sabah,W.P. Labuan,property,all,2020-01-01,163,2020,232.0,-69.0,-29.74
+Sabah,W.P. Labuan,property,all,2021-01-01,124,2021,163.0,-39.0,-23.93
+Sabah,W.P. Labuan,property,all,2022-01-01,87,2022,124.0,-37.0,-29.84
+Sabah,W.P. Labuan,property,all,2023-01-01,109,2023,87.0,22.0,25.29
+Sarawak,Bau,property,all,2016-01-01,41,2016,,,
+Sarawak,Bau,property,all,2017-01-01,39,2017,41.0,-2.0,-4.88
+Sarawak,Bau,property,all,2018-01-01,42,2018,39.0,3.0,7.69
+Sarawak,Bau,property,all,2019-01-01,38,2019,42.0,-4.0,-9.52
+Sarawak,Bau,property,all,2020-01-01,27,2020,38.0,-11.0,-28.95
+Sarawak,Bau,property,all,2021-01-01,27,2021,27.0,0.0,0.0
+Sarawak,Bau,property,all,2022-01-01,45,2022,27.0,18.0,66.67
+Sarawak,Bau,property,all,2023-01-01,62,2023,45.0,17.0,37.78
+Sarawak,Belaga,property,all,2016-01-01,55,2016,,,
+Sarawak,Belaga,property,all,2017-01-01,67,2017,55.0,12.0,21.82
+Sarawak,Belaga,property,all,2018-01-01,38,2018,67.0,-29.0,-43.28
+Sarawak,Belaga,property,all,2019-01-01,26,2019,38.0,-12.0,-31.58
+Sarawak,Belaga,property,all,2020-01-01,18,2020,26.0,-8.0,-30.77
+Sarawak,Belaga,property,all,2021-01-01,19,2021,18.0,1.0,5.56
+Sarawak,Belaga,property,all,2022-01-01,15,2022,19.0,-4.0,-21.05
+Sarawak,Belaga,property,all,2023-01-01,32,2023,15.0,17.0,113.33
+Sarawak,Betong,property,all,2016-01-01,69,2016,,,
+Sarawak,Betong,property,all,2017-01-01,45,2017,69.0,-24.0,-34.78
+Sarawak,Betong,property,all,2018-01-01,62,2018,45.0,17.0,37.78
+Sarawak,Betong,property,all,2019-01-01,56,2019,62.0,-6.0,-9.68
+Sarawak,Betong,property,all,2020-01-01,61,2020,56.0,5.0,8.93
+Sarawak,Betong,property,all,2021-01-01,73,2021,61.0,12.0,19.67
+Sarawak,Betong,property,all,2022-01-01,76,2022,73.0,3.0,4.11
+Sarawak,Betong,property,all,2023-01-01,64,2023,76.0,-12.0,-15.79
+Sarawak,Bintulu,property,all,2016-01-01,610,2016,,,
+Sarawak,Bintulu,property,all,2017-01-01,522,2017,610.0,-88.0,-14.43
+Sarawak,Bintulu,property,all,2018-01-01,429,2018,522.0,-93.0,-17.82
+Sarawak,Bintulu,property,all,2019-01-01,416,2019,429.0,-13.0,-3.03
+Sarawak,Bintulu,property,all,2020-01-01,316,2020,416.0,-100.0,-24.04
+Sarawak,Bintulu,property,all,2021-01-01,282,2021,316.0,-34.0,-10.76
+Sarawak,Bintulu,property,all,2022-01-01,354,2022,282.0,72.0,25.53
+Sarawak,Bintulu,property,all,2023-01-01,337,2023,354.0,-17.0,-4.8
+Sarawak,Dalat,property,all,2016-01-01,31,2016,,,
+Sarawak,Dalat,property,all,2017-01-01,26,2017,31.0,-5.0,-16.13
+Sarawak,Dalat,property,all,2018-01-01,16,2018,26.0,-10.0,-38.46
+Sarawak,Dalat,property,all,2019-01-01,14,2019,16.0,-2.0,-12.5
+Sarawak,Dalat,property,all,2020-01-01,11,2020,14.0,-3.0,-21.43
+Sarawak,Dalat,property,all,2021-01-01,5,2021,11.0,-6.0,-54.55
+Sarawak,Dalat,property,all,2022-01-01,7,2022,5.0,2.0,40.0
+Sarawak,Dalat,property,all,2023-01-01,8,2023,7.0,1.0,14.29
+Sarawak,Julau,property,all,2016-01-01,10,2016,,,
+Sarawak,Julau,property,all,2017-01-01,6,2017,10.0,-4.0,-40.0
+Sarawak,Julau,property,all,2018-01-01,5,2018,6.0,-1.0,-16.67
+Sarawak,Julau,property,all,2019-01-01,5,2019,5.0,0.0,0.0
+Sarawak,Julau,property,all,2020-01-01,6,2020,5.0,1.0,20.0
+Sarawak,Julau,property,all,2021-01-01,1,2021,6.0,-5.0,-83.33
+Sarawak,Julau,property,all,2022-01-01,10,2022,1.0,9.0,900.0
+Sarawak,Julau,property,all,2023-01-01,15,2023,10.0,5.0,50.0
+Sarawak,Kanowit,property,all,2016-01-01,22,2016,,,
+Sarawak,Kanowit,property,all,2017-01-01,23,2017,22.0,1.0,4.55
+Sarawak,Kanowit,property,all,2018-01-01,7,2018,23.0,-16.0,-69.57
+Sarawak,Kanowit,property,all,2019-01-01,17,2019,7.0,10.0,142.86
+Sarawak,Kanowit,property,all,2020-01-01,13,2020,17.0,-4.0,-23.53
+Sarawak,Kanowit,property,all,2021-01-01,4,2021,13.0,-9.0,-69.23
+Sarawak,Kanowit,property,all,2022-01-01,4,2022,4.0,0.0,0.0
+Sarawak,Kanowit,property,all,2023-01-01,7,2023,4.0,3.0,75.0
+Sarawak,Kapit,property,all,2016-01-01,56,2016,,,
+Sarawak,Kapit,property,all,2017-01-01,57,2017,56.0,1.0,1.79
+Sarawak,Kapit,property,all,2018-01-01,40,2018,57.0,-17.0,-29.82
+Sarawak,Kapit,property,all,2019-01-01,40,2019,40.0,0.0,0.0
+Sarawak,Kapit,property,all,2020-01-01,27,2020,40.0,-13.0,-32.5
+Sarawak,Kapit,property,all,2021-01-01,20,2021,27.0,-7.0,-25.93
+Sarawak,Kapit,property,all,2022-01-01,22,2022,20.0,2.0,10.0
+Sarawak,Kapit,property,all,2023-01-01,28,2023,22.0,6.0,27.27
+Sarawak,Kota Samarahan,property,all,2016-01-01,258,2016,,,
+Sarawak,Kota Samarahan,property,all,2017-01-01,285,2017,258.0,27.0,10.47
+Sarawak,Kota Samarahan,property,all,2018-01-01,316,2018,285.0,31.0,10.88
+Sarawak,Kota Samarahan,property,all,2019-01-01,320,2019,316.0,4.0,1.27
+Sarawak,Kota Samarahan,property,all,2020-01-01,382,2020,320.0,62.0,19.38
+Sarawak,Kota Samarahan,property,all,2021-01-01,297,2021,382.0,-85.0,-22.25
+Sarawak,Kota Samarahan,property,all,2022-01-01,278,2022,297.0,-19.0,-6.4
+Sarawak,Kota Samarahan,property,all,2023-01-01,232,2023,278.0,-46.0,-16.55
+Sarawak,Kuching,property,all,2016-01-01,1392,2016,,,
+Sarawak,Kuching,property,all,2017-01-01,1374,2017,1392.0,-18.0,-1.29
+Sarawak,Kuching,property,all,2018-01-01,1161,2018,1374.0,-213.0,-15.5
+Sarawak,Kuching,property,all,2019-01-01,1157,2019,1161.0,-4.0,-0.34
+Sarawak,Kuching,property,all,2020-01-01,1175,2020,1157.0,18.0,1.56
+Sarawak,Kuching,property,all,2021-01-01,813,2021,1175.0,-362.0,-30.81
+Sarawak,Kuching,property,all,2022-01-01,689,2022,813.0,-124.0,-15.25
+Sarawak,Kuching,property,all,2023-01-01,737,2023,689.0,48.0,6.97
+Sarawak,Lawas,property,all,2016-01-01,46,2016,,,
+Sarawak,Lawas,property,all,2017-01-01,37,2017,46.0,-9.0,-19.57
+Sarawak,Lawas,property,all,2018-01-01,41,2018,37.0,4.0,10.81
+Sarawak,Lawas,property,all,2019-01-01,34,2019,41.0,-7.0,-17.07
+Sarawak,Lawas,property,all,2020-01-01,26,2020,34.0,-8.0,-23.53
+Sarawak,Lawas,property,all,2021-01-01,22,2021,26.0,-4.0,-15.38
+Sarawak,Lawas,property,all,2022-01-01,22,2022,22.0,0.0,0.0
+Sarawak,Lawas,property,all,2023-01-01,21,2023,22.0,-1.0,-4.55
+Sarawak,Limbang,property,all,2016-01-01,54,2016,,,
+Sarawak,Limbang,property,all,2017-01-01,58,2017,54.0,4.0,7.41
+Sarawak,Limbang,property,all,2018-01-01,46,2018,58.0,-12.0,-20.69
+Sarawak,Limbang,property,all,2019-01-01,30,2019,46.0,-16.0,-34.78
+Sarawak,Limbang,property,all,2020-01-01,27,2020,30.0,-3.0,-10.0
+Sarawak,Limbang,property,all,2021-01-01,25,2021,27.0,-2.0,-7.41
+Sarawak,Limbang,property,all,2022-01-01,23,2022,25.0,-2.0,-8.0
+Sarawak,Limbang,property,all,2023-01-01,15,2023,23.0,-8.0,-34.78
+Sarawak,Lubok Antu,property,all,2016-01-01,9,2016,,,
+Sarawak,Lubok Antu,property,all,2017-01-01,30,2017,9.0,21.0,233.33
+Sarawak,Lubok Antu,property,all,2018-01-01,29,2018,30.0,-1.0,-3.33
+Sarawak,Lubok Antu,property,all,2019-01-01,13,2019,29.0,-16.0,-55.17
+Sarawak,Lubok Antu,property,all,2020-01-01,17,2020,13.0,4.0,30.77
+Sarawak,Lubok Antu,property,all,2021-01-01,9,2021,17.0,-8.0,-47.06
+Sarawak,Lubok Antu,property,all,2022-01-01,12,2022,9.0,3.0,33.33
+Sarawak,Lubok Antu,property,all,2023-01-01,23,2023,12.0,11.0,91.67
+Sarawak,Lundu,property,all,2016-01-01,78,2016,,,
+Sarawak,Lundu,property,all,2017-01-01,57,2017,78.0,-21.0,-26.92
+Sarawak,Lundu,property,all,2018-01-01,39,2018,57.0,-18.0,-31.58
+Sarawak,Lundu,property,all,2019-01-01,29,2019,39.0,-10.0,-25.64
+Sarawak,Lundu,property,all,2020-01-01,40,2020,29.0,11.0,37.93
+Sarawak,Lundu,property,all,2021-01-01,52,2021,40.0,12.0,30.0
+Sarawak,Lundu,property,all,2022-01-01,47,2022,52.0,-5.0,-9.62
+Sarawak,Lundu,property,all,2023-01-01,55,2023,47.0,8.0,17.02
+Sarawak,Marudi,property,all,2016-01-01,50,2016,,,
+Sarawak,Marudi,property,all,2017-01-01,39,2017,50.0,-11.0,-22.0
+Sarawak,Marudi,property,all,2018-01-01,33,2018,39.0,-6.0,-15.38
+Sarawak,Marudi,property,all,2019-01-01,58,2019,33.0,25.0,75.76
+Sarawak,Marudi,property,all,2020-01-01,60,2020,58.0,2.0,3.45
+Sarawak,Marudi,property,all,2021-01-01,50,2021,60.0,-10.0,-16.67
+Sarawak,Marudi,property,all,2022-01-01,52,2022,50.0,2.0,4.0
+Sarawak,Marudi,property,all,2023-01-01,58,2023,52.0,6.0,11.54
+Sarawak,Matu Daro,property,all,2016-01-01,19,2016,,,
+Sarawak,Matu Daro,property,all,2017-01-01,22,2017,19.0,3.0,15.79
+Sarawak,Matu Daro,property,all,2018-01-01,24,2018,22.0,2.0,9.09
+Sarawak,Matu Daro,property,all,2019-01-01,20,2019,24.0,-4.0,-16.67
+Sarawak,Matu Daro,property,all,2020-01-01,25,2020,20.0,5.0,25.0
+Sarawak,Matu Daro,property,all,2021-01-01,17,2021,25.0,-8.0,-32.0
+Sarawak,Matu Daro,property,all,2022-01-01,17,2022,17.0,0.0,0.0
+Sarawak,Matu Daro,property,all,2023-01-01,37,2023,17.0,20.0,117.65
+Sarawak,Meradong,property,all,2016-01-01,28,2016,,,
+Sarawak,Meradong,property,all,2017-01-01,30,2017,28.0,2.0,7.14
+Sarawak,Meradong,property,all,2018-01-01,37,2018,30.0,7.0,23.33
+Sarawak,Meradong,property,all,2019-01-01,46,2019,37.0,9.0,24.32
+Sarawak,Meradong,property,all,2020-01-01,42,2020,46.0,-4.0,-8.7
+Sarawak,Meradong,property,all,2021-01-01,23,2021,42.0,-19.0,-45.24
+Sarawak,Meradong,property,all,2022-01-01,19,2022,23.0,-4.0,-17.39
+Sarawak,Meradong,property,all,2023-01-01,32,2023,19.0,13.0,68.42
+Sarawak,Miri,property,all,2016-01-01,972,2016,,,
+Sarawak,Miri,property,all,2017-01-01,815,2017,972.0,-157.0,-16.15
+Sarawak,Miri,property,all,2018-01-01,821,2018,815.0,6.0,0.74
+Sarawak,Miri,property,all,2019-01-01,802,2019,821.0,-19.0,-2.31
+Sarawak,Miri,property,all,2020-01-01,929,2020,802.0,127.0,15.84
+Sarawak,Miri,property,all,2021-01-01,481,2021,929.0,-448.0,-48.22
+Sarawak,Miri,property,all,2022-01-01,212,2022,481.0,-269.0,-55.93
+Sarawak,Miri,property,all,2023-01-01,241,2023,212.0,29.0,13.68
+Sarawak,Mukah,property,all,2016-01-01,64,2016,,,
+Sarawak,Mukah,property,all,2017-01-01,74,2017,64.0,10.0,15.62
+Sarawak,Mukah,property,all,2018-01-01,83,2018,74.0,9.0,12.16
+Sarawak,Mukah,property,all,2019-01-01,90,2019,83.0,7.0,8.43
+Sarawak,Mukah,property,all,2020-01-01,54,2020,90.0,-36.0,-40.0
+Sarawak,Mukah,property,all,2021-01-01,41,2021,54.0,-13.0,-24.07
+Sarawak,Mukah,property,all,2022-01-01,32,2022,41.0,-9.0,-21.95
+Sarawak,Mukah,property,all,2023-01-01,44,2023,32.0,12.0,37.5
+Sarawak,Padawan,property,all,2016-01-01,801,2016,,,
+Sarawak,Padawan,property,all,2017-01-01,830,2017,801.0,29.0,3.62
+Sarawak,Padawan,property,all,2018-01-01,720,2018,830.0,-110.0,-13.25
+Sarawak,Padawan,property,all,2019-01-01,699,2019,720.0,-21.0,-2.92
+Sarawak,Padawan,property,all,2020-01-01,724,2020,699.0,25.0,3.58
+Sarawak,Padawan,property,all,2021-01-01,672,2021,724.0,-52.0,-7.18
+Sarawak,Padawan,property,all,2022-01-01,609,2022,672.0,-63.0,-9.38
+Sarawak,Padawan,property,all,2023-01-01,647,2023,609.0,38.0,6.24
+Sarawak,Saratok,property,all,2016-01-01,31,2016,,,
+Sarawak,Saratok,property,all,2017-01-01,26,2017,31.0,-5.0,-16.13
+Sarawak,Saratok,property,all,2018-01-01,14,2018,26.0,-12.0,-46.15
+Sarawak,Saratok,property,all,2019-01-01,25,2019,14.0,11.0,78.57
+Sarawak,Saratok,property,all,2020-01-01,51,2020,25.0,26.0,104.0
+Sarawak,Saratok,property,all,2021-01-01,31,2021,51.0,-20.0,-39.22
+Sarawak,Saratok,property,all,2022-01-01,38,2022,31.0,7.0,22.58
+Sarawak,Saratok,property,all,2023-01-01,46,2023,38.0,8.0,21.05
+Sarawak,Sarikei,property,all,2016-01-01,180,2016,,,
+Sarawak,Sarikei,property,all,2017-01-01,149,2017,180.0,-31.0,-17.22
+Sarawak,Sarikei,property,all,2018-01-01,149,2018,149.0,0.0,0.0
+Sarawak,Sarikei,property,all,2019-01-01,142,2019,149.0,-7.0,-4.7
+Sarawak,Sarikei,property,all,2020-01-01,142,2020,142.0,0.0,0.0
+Sarawak,Sarikei,property,all,2021-01-01,63,2021,142.0,-79.0,-55.63
+Sarawak,Sarikei,property,all,2022-01-01,70,2022,63.0,7.0,11.11
+Sarawak,Sarikei,property,all,2023-01-01,64,2023,70.0,-6.0,-8.57
+Sarawak,Serian,property,all,2016-01-01,111,2016,,,
+Sarawak,Serian,property,all,2017-01-01,120,2017,111.0,9.0,8.11
+Sarawak,Serian,property,all,2018-01-01,103,2018,120.0,-17.0,-14.17
+Sarawak,Serian,property,all,2019-01-01,101,2019,103.0,-2.0,-1.94
+Sarawak,Serian,property,all,2020-01-01,88,2020,101.0,-13.0,-12.87
+Sarawak,Serian,property,all,2021-01-01,78,2021,88.0,-10.0,-11.36
+Sarawak,Serian,property,all,2022-01-01,103,2022,78.0,25.0,32.05
+Sarawak,Serian,property,all,2023-01-01,93,2023,103.0,-10.0,-9.71
+Sarawak,Sibu,property,all,2016-01-01,706,2016,,,
+Sarawak,Sibu,property,all,2017-01-01,634,2017,706.0,-72.0,-10.2
+Sarawak,Sibu,property,all,2018-01-01,626,2018,634.0,-8.0,-1.26
+Sarawak,Sibu,property,all,2019-01-01,783,2019,626.0,157.0,25.08
+Sarawak,Sibu,property,all,2020-01-01,680,2020,783.0,-103.0,-13.15
+Sarawak,Sibu,property,all,2021-01-01,478,2021,680.0,-202.0,-29.71
+Sarawak,Sibu,property,all,2022-01-01,390,2022,478.0,-88.0,-18.41
+Sarawak,Sibu,property,all,2023-01-01,460,2023,390.0,70.0,17.95
+Sarawak,Simunjan,property,all,2016-01-01,46,2016,,,
+Sarawak,Simunjan,property,all,2017-01-01,29,2017,46.0,-17.0,-36.96
+Sarawak,Simunjan,property,all,2018-01-01,30,2018,29.0,1.0,3.45
+Sarawak,Simunjan,property,all,2019-01-01,49,2019,30.0,19.0,63.33
+Sarawak,Simunjan,property,all,2020-01-01,32,2020,49.0,-17.0,-34.69
+Sarawak,Simunjan,property,all,2021-01-01,28,2021,32.0,-4.0,-12.5
+Sarawak,Simunjan,property,all,2022-01-01,31,2022,28.0,3.0,10.71
+Sarawak,Simunjan,property,all,2023-01-01,38,2023,31.0,7.0,22.58
+Sarawak,Song,property,all,2016-01-01,4,2016,,,
+Sarawak,Song,property,all,2017-01-01,4,2017,4.0,0.0,0.0
+Sarawak,Song,property,all,2018-01-01,10,2018,4.0,6.0,150.0
+Sarawak,Song,property,all,2019-01-01,4,2019,10.0,-6.0,-60.0
+Sarawak,Song,property,all,2020-01-01,7,2020,4.0,3.0,75.0
+Sarawak,Song,property,all,2021-01-01,4,2021,7.0,-3.0,-42.86
+Sarawak,Song,property,all,2022-01-01,8,2022,4.0,4.0,100.0
+Sarawak,Song,property,all,2023-01-01,3,2023,8.0,-5.0,-62.5
+Sarawak,Sri Aman,property,all,2016-01-01,109,2016,,,
+Sarawak,Sri Aman,property,all,2017-01-01,95,2017,109.0,-14.0,-12.84
+Sarawak,Sri Aman,property,all,2018-01-01,73,2018,95.0,-22.0,-23.16
+Sarawak,Sri Aman,property,all,2019-01-01,95,2019,73.0,22.0,30.14
+Sarawak,Sri Aman,property,all,2020-01-01,92,2020,95.0,-3.0,-3.16
+Sarawak,Sri Aman,property,all,2021-01-01,77,2021,92.0,-15.0,-16.3
+Sarawak,Sri Aman,property,all,2022-01-01,96,2022,77.0,19.0,24.68
+Sarawak,Sri Aman,property,all,2023-01-01,72,2023,96.0,-24.0,-25.0
+Sarawak,Tatau,property,all,2016-01-01,21,2016,,,
+Sarawak,Tatau,property,all,2017-01-01,12,2017,21.0,-9.0,-42.86
+Sarawak,Tatau,property,all,2018-01-01,25,2018,12.0,13.0,108.33
+Sarawak,Tatau,property,all,2019-01-01,16,2019,25.0,-9.0,-36.0
+Sarawak,Tatau,property,all,2020-01-01,17,2020,16.0,1.0,6.25
+Sarawak,Tatau,property,all,2021-01-01,9,2021,17.0,-8.0,-47.06
+Sarawak,Tatau,property,all,2022-01-01,18,2022,9.0,9.0,100.0
+Sarawak,Tatau,property,all,2023-01-01,16,2023,18.0,-2.0,-11.11
+Selangor,Ampang Jaya,property,all,2016-01-01,2549,2016,,,
+Selangor,Ampang Jaya,property,all,2017-01-01,1960,2017,2549.0,-589.0,-23.11
+Selangor,Ampang Jaya,property,all,2018-01-01,1828,2018,1960.0,-132.0,-6.73
+Selangor,Ampang Jaya,property,all,2019-01-01,1668,2019,1828.0,-160.0,-8.75
+Selangor,Ampang Jaya,property,all,2020-01-01,1413,2020,1668.0,-255.0,-15.29
+Selangor,Ampang Jaya,property,all,2021-01-01,1034,2021,1413.0,-379.0,-26.82
+Selangor,Ampang Jaya,property,all,2022-01-01,787,2022,1034.0,-247.0,-23.89
+Selangor,Ampang Jaya,property,all,2023-01-01,955,2023,787.0,168.0,21.35
+Selangor,Gombak,property,all,2016-01-01,2862,2016,,,
+Selangor,Gombak,property,all,2017-01-01,2246,2017,2862.0,-616.0,-21.52
+Selangor,Gombak,property,all,2018-01-01,1931,2018,2246.0,-315.0,-14.02
+Selangor,Gombak,property,all,2019-01-01,1870,2019,1931.0,-61.0,-3.16
+Selangor,Gombak,property,all,2020-01-01,1612,2020,1870.0,-258.0,-13.8
+Selangor,Gombak,property,all,2021-01-01,1440,2021,1612.0,-172.0,-10.67
+Selangor,Gombak,property,all,2022-01-01,1223,2022,1440.0,-217.0,-15.07
+Selangor,Gombak,property,all,2023-01-01,1402,2023,1223.0,179.0,14.64
+Selangor,Hulu Selangor,property,all,2016-01-01,405,2016,,,
+Selangor,Hulu Selangor,property,all,2017-01-01,372,2017,405.0,-33.0,-8.15
+Selangor,Hulu Selangor,property,all,2018-01-01,357,2018,372.0,-15.0,-4.03
+Selangor,Hulu Selangor,property,all,2019-01-01,373,2019,357.0,16.0,4.48
+Selangor,Hulu Selangor,property,all,2020-01-01,486,2020,373.0,113.0,30.29
+Selangor,Hulu Selangor,property,all,2021-01-01,357,2021,486.0,-129.0,-26.54
+Selangor,Hulu Selangor,property,all,2022-01-01,235,2022,357.0,-122.0,-34.17
+Selangor,Hulu Selangor,property,all,2023-01-01,302,2023,235.0,67.0,28.51
+Selangor,Kajang,property,all,2016-01-01,3235,2016,,,
+Selangor,Kajang,property,all,2017-01-01,2641,2017,3235.0,-594.0,-18.36
+Selangor,Kajang,property,all,2018-01-01,1906,2018,2641.0,-735.0,-27.83
+Selangor,Kajang,property,all,2019-01-01,1812,2019,1906.0,-94.0,-4.93
+Selangor,Kajang,property,all,2020-01-01,1556,2020,1812.0,-256.0,-14.13
+Selangor,Kajang,property,all,2021-01-01,1264,2021,1556.0,-292.0,-18.77
+Selangor,Kajang,property,all,2022-01-01,1190,2022,1264.0,-74.0,-5.85
+Selangor,Kajang,property,all,2023-01-01,1247,2023,1190.0,57.0,4.79
+Selangor,Klang Selatan,property,all,2016-01-01,1704,2016,,,
+Selangor,Klang Selatan,property,all,2017-01-01,1610,2017,1704.0,-94.0,-5.52
+Selangor,Klang Selatan,property,all,2018-01-01,1425,2018,1610.0,-185.0,-11.49
+Selangor,Klang Selatan,property,all,2019-01-01,1246,2019,1425.0,-179.0,-12.56
+Selangor,Klang Selatan,property,all,2020-01-01,1056,2020,1246.0,-190.0,-15.25
+Selangor,Klang Selatan,property,all,2021-01-01,1249,2021,1056.0,193.0,18.28
+Selangor,Klang Selatan,property,all,2022-01-01,981,2022,1249.0,-268.0,-21.46
+Selangor,Klang Selatan,property,all,2023-01-01,999,2023,981.0,18.0,1.83
+Selangor,Klang Utara,property,all,2016-01-01,1204,2016,,,
+Selangor,Klang Utara,property,all,2017-01-01,991,2017,1204.0,-213.0,-17.69
+Selangor,Klang Utara,property,all,2018-01-01,775,2018,991.0,-216.0,-21.8
+Selangor,Klang Utara,property,all,2019-01-01,701,2019,775.0,-74.0,-9.55
+Selangor,Klang Utara,property,all,2020-01-01,620,2020,701.0,-81.0,-11.55
+Selangor,Klang Utara,property,all,2021-01-01,559,2021,620.0,-61.0,-9.84
+Selangor,Klang Utara,property,all,2022-01-01,565,2022,559.0,6.0,1.07
+Selangor,Klang Utara,property,all,2023-01-01,600,2023,565.0,35.0,6.19
+Selangor,Kuala Langat,property,all,2016-01-01,594,2016,,,
+Selangor,Kuala Langat,property,all,2017-01-01,490,2017,594.0,-104.0,-17.51
+Selangor,Kuala Langat,property,all,2018-01-01,395,2018,490.0,-95.0,-19.39
+Selangor,Kuala Langat,property,all,2019-01-01,340,2019,395.0,-55.0,-13.92
+Selangor,Kuala Langat,property,all,2020-01-01,327,2020,340.0,-13.0,-3.82
+Selangor,Kuala Langat,property,all,2021-01-01,344,2021,327.0,17.0,5.2
+Selangor,Kuala Langat,property,all,2022-01-01,407,2022,344.0,63.0,18.31
+Selangor,Kuala Langat,property,all,2023-01-01,346,2023,407.0,-61.0,-14.99
+Selangor,Kuala Selangor,property,all,2016-01-01,418,2016,,,
+Selangor,Kuala Selangor,property,all,2017-01-01,320,2017,418.0,-98.0,-23.44
+Selangor,Kuala Selangor,property,all,2018-01-01,286,2018,320.0,-34.0,-10.62
+Selangor,Kuala Selangor,property,all,2019-01-01,349,2019,286.0,63.0,22.03
+Selangor,Kuala Selangor,property,all,2020-01-01,383,2020,349.0,34.0,9.74
+Selangor,Kuala Selangor,property,all,2021-01-01,397,2021,383.0,14.0,3.66
+Selangor,Kuala Selangor,property,all,2022-01-01,328,2022,397.0,-69.0,-17.38
+Selangor,Kuala Selangor,property,all,2023-01-01,412,2023,328.0,84.0,25.61
+Selangor,Petaling Jaya,property,all,2016-01-01,3701,2016,,,
+Selangor,Petaling Jaya,property,all,2017-01-01,3076,2017,3701.0,-625.0,-16.89
+Selangor,Petaling Jaya,property,all,2018-01-01,2618,2018,3076.0,-458.0,-14.89
+Selangor,Petaling Jaya,property,all,2019-01-01,2453,2019,2618.0,-165.0,-6.3
+Selangor,Petaling Jaya,property,all,2020-01-01,1940,2020,2453.0,-513.0,-20.91
+Selangor,Petaling Jaya,property,all,2021-01-01,1356,2021,1940.0,-584.0,-30.1
+Selangor,Petaling Jaya,property,all,2022-01-01,1251,2022,1356.0,-105.0,-7.74
+Selangor,Petaling Jaya,property,all,2023-01-01,1166,2023,1251.0,-85.0,-6.79
+Selangor,Sabak Bernam,property,all,2016-01-01,352,2016,,,
+Selangor,Sabak Bernam,property,all,2017-01-01,332,2017,352.0,-20.0,-5.68
+Selangor,Sabak Bernam,property,all,2018-01-01,303,2018,332.0,-29.0,-8.73
+Selangor,Sabak Bernam,property,all,2019-01-01,264,2019,303.0,-39.0,-12.87
+Selangor,Sabak Bernam,property,all,2020-01-01,207,2020,264.0,-57.0,-21.59
+Selangor,Sabak Bernam,property,all,2021-01-01,144,2021,207.0,-63.0,-30.43
+Selangor,Sabak Bernam,property,all,2022-01-01,124,2022,144.0,-20.0,-13.89
+Selangor,Sabak Bernam,property,all,2023-01-01,127,2023,124.0,3.0,2.42
+Selangor,Sepang,property,all,2016-01-01,915,2016,,,
+Selangor,Sepang,property,all,2017-01-01,598,2017,915.0,-317.0,-34.64
+Selangor,Sepang,property,all,2018-01-01,534,2018,598.0,-64.0,-10.7
+Selangor,Sepang,property,all,2019-01-01,523,2019,534.0,-11.0,-2.06
+Selangor,Sepang,property,all,2020-01-01,421,2020,523.0,-102.0,-19.5
+Selangor,Sepang,property,all,2021-01-01,426,2021,421.0,5.0,1.19
+Selangor,Sepang,property,all,2022-01-01,531,2022,426.0,105.0,24.65
+Selangor,Sepang,property,all,2023-01-01,569,2023,531.0,38.0,7.16
+Selangor,Serdang,property,all,2016-01-01,2158,2016,,,
+Selangor,Serdang,property,all,2017-01-01,1372,2017,2158.0,-786.0,-36.42
+Selangor,Serdang,property,all,2018-01-01,1291,2018,1372.0,-81.0,-5.9
+Selangor,Serdang,property,all,2019-01-01,1273,2019,1291.0,-18.0,-1.39
+Selangor,Serdang,property,all,2020-01-01,1282,2020,1273.0,9.0,0.71
+Selangor,Serdang,property,all,2021-01-01,1197,2021,1282.0,-85.0,-6.63
+Selangor,Serdang,property,all,2022-01-01,842,2022,1197.0,-355.0,-29.66
+Selangor,Serdang,property,all,2023-01-01,750,2023,842.0,-92.0,-10.93
+Selangor,Sg. Buloh,property,all,2016-01-01,1184,2016,,,
+Selangor,Sg. Buloh,property,all,2017-01-01,1013,2017,1184.0,-171.0,-14.44
+Selangor,Sg. Buloh,property,all,2018-01-01,859,2018,1013.0,-154.0,-15.2
+Selangor,Sg. Buloh,property,all,2019-01-01,799,2019,859.0,-60.0,-6.98
+Selangor,Sg. Buloh,property,all,2020-01-01,547,2020,799.0,-252.0,-31.54
+Selangor,Shah Alam,property,all,2016-01-01,1624,2016,,,
+Selangor,Shah Alam,property,all,2017-01-01,1391,2017,1624.0,-233.0,-14.35
+Selangor,Shah Alam,property,all,2018-01-01,1261,2018,1391.0,-130.0,-9.35
+Selangor,Shah Alam,property,all,2019-01-01,956,2019,1261.0,-305.0,-24.19
+Selangor,Shah Alam,property,all,2020-01-01,729,2020,956.0,-227.0,-23.74
+Selangor,Shah Alam,property,all,2021-01-01,628,2021,729.0,-101.0,-13.85
+Selangor,Shah Alam,property,all,2022-01-01,638,2022,628.0,10.0,1.59
+Selangor,Shah Alam,property,all,2023-01-01,636,2023,638.0,-2.0,-0.31
+Selangor,Subang Jaya,property,all,2016-01-01,1707,2016,,,
+Selangor,Subang Jaya,property,all,2017-01-01,1187,2017,1707.0,-520.0,-30.46
+Selangor,Subang Jaya,property,all,2018-01-01,993,2018,1187.0,-194.0,-16.34
+Selangor,Subang Jaya,property,all,2019-01-01,871,2019,993.0,-122.0,-12.29
+Selangor,Subang Jaya,property,all,2020-01-01,774,2020,871.0,-97.0,-11.14
+Selangor,Subang Jaya,property,all,2021-01-01,571,2021,774.0,-203.0,-26.23
+Selangor,Subang Jaya,property,all,2022-01-01,620,2022,571.0,49.0,8.58
+Selangor,Subang Jaya,property,all,2023-01-01,716,2023,620.0,96.0,15.48
+Selangor,Sungai Buloh,property,all,2021-01-01,505,2021,,,
+Selangor,Sungai Buloh,property,all,2022-01-01,483,2022,505.0,-22.0,-4.36
+Selangor,Sungai Buloh,property,all,2023-01-01,559,2023,483.0,76.0,15.73
+Terengganu,Besut,property,all,2016-01-01,411,2016,,,
+Terengganu,Besut,property,all,2017-01-01,396,2017,411.0,-15.0,-3.65
+Terengganu,Besut,property,all,2018-01-01,302,2018,396.0,-94.0,-23.74
+Terengganu,Besut,property,all,2019-01-01,347,2019,302.0,45.0,14.9
+Terengganu,Besut,property,all,2020-01-01,360,2020,347.0,13.0,3.75
+Terengganu,Besut,property,all,2021-01-01,253,2021,360.0,-107.0,-29.72
+Terengganu,Besut,property,all,2022-01-01,203,2022,253.0,-50.0,-19.76
+Terengganu,Besut,property,all,2023-01-01,172,2023,203.0,-31.0,-15.27
+Terengganu,Dungun,property,all,2016-01-01,295,2016,,,
+Terengganu,Dungun,property,all,2017-01-01,263,2017,295.0,-32.0,-10.85
+Terengganu,Dungun,property,all,2018-01-01,243,2018,263.0,-20.0,-7.6
+Terengganu,Dungun,property,all,2019-01-01,211,2019,243.0,-32.0,-13.17
+Terengganu,Dungun,property,all,2020-01-01,235,2020,211.0,24.0,11.37
+Terengganu,Dungun,property,all,2021-01-01,195,2021,235.0,-40.0,-17.02
+Terengganu,Dungun,property,all,2022-01-01,169,2022,195.0,-26.0,-13.33
+Terengganu,Dungun,property,all,2023-01-01,160,2023,169.0,-9.0,-5.33
+Terengganu,Hulu Terengganu,property,all,2016-01-01,129,2016,,,
+Terengganu,Hulu Terengganu,property,all,2017-01-01,123,2017,129.0,-6.0,-4.65
+Terengganu,Hulu Terengganu,property,all,2018-01-01,77,2018,123.0,-46.0,-37.4
+Terengganu,Hulu Terengganu,property,all,2019-01-01,87,2019,77.0,10.0,12.99
+Terengganu,Hulu Terengganu,property,all,2020-01-01,101,2020,87.0,14.0,16.09
+Terengganu,Hulu Terengganu,property,all,2021-01-01,92,2021,101.0,-9.0,-8.91
+Terengganu,Hulu Terengganu,property,all,2022-01-01,84,2022,92.0,-8.0,-8.7
+Terengganu,Hulu Terengganu,property,all,2023-01-01,76,2023,84.0,-8.0,-9.52
+Terengganu,Kemaman,property,all,2016-01-01,357,2016,,,
+Terengganu,Kemaman,property,all,2017-01-01,286,2017,357.0,-71.0,-19.89
+Terengganu,Kemaman,property,all,2018-01-01,226,2018,286.0,-60.0,-20.98
+Terengganu,Kemaman,property,all,2019-01-01,253,2019,226.0,27.0,11.95
+Terengganu,Kemaman,property,all,2020-01-01,335,2020,253.0,82.0,32.41
+Terengganu,Kemaman,property,all,2021-01-01,259,2021,335.0,-76.0,-22.69
+Terengganu,Kemaman,property,all,2022-01-01,266,2022,259.0,7.0,2.7
+Terengganu,Kemaman,property,all,2023-01-01,262,2023,266.0,-4.0,-1.5
+Terengganu,Kuala Terengganu,property,all,2016-01-01,652,2016,,,
+Terengganu,Kuala Terengganu,property,all,2017-01-01,604,2017,652.0,-48.0,-7.36
+Terengganu,Kuala Terengganu,property,all,2018-01-01,487,2018,604.0,-117.0,-19.37
+Terengganu,Kuala Terengganu,property,all,2019-01-01,485,2019,487.0,-2.0,-0.41
+Terengganu,Kuala Terengganu,property,all,2020-01-01,571,2020,485.0,86.0,17.73
+Terengganu,Kuala Terengganu,property,all,2021-01-01,413,2021,571.0,-158.0,-27.67
+Terengganu,Kuala Terengganu,property,all,2022-01-01,402,2022,413.0,-11.0,-2.66
+Terengganu,Kuala Terengganu,property,all,2023-01-01,341,2023,402.0,-61.0,-15.17
+Terengganu,Marang,property,all,2016-01-01,148,2016,,,
+Terengganu,Marang,property,all,2017-01-01,143,2017,148.0,-5.0,-3.38
+Terengganu,Marang,property,all,2018-01-01,114,2018,143.0,-29.0,-20.28
+Terengganu,Marang,property,all,2019-01-01,105,2019,114.0,-9.0,-7.89
+Terengganu,Marang,property,all,2020-01-01,151,2020,105.0,46.0,43.81
+Terengganu,Marang,property,all,2021-01-01,120,2021,151.0,-31.0,-20.53
+Terengganu,Marang,property,all,2022-01-01,90,2022,120.0,-30.0,-25.0
+Terengganu,Marang,property,all,2023-01-01,82,2023,90.0,-8.0,-8.89
+Terengganu,Setiu,property,all,2016-01-01,95,2016,,,
+Terengganu,Setiu,property,all,2017-01-01,88,2017,95.0,-7.0,-7.37
+Terengganu,Setiu,property,all,2018-01-01,83,2018,88.0,-5.0,-5.68
+Terengganu,Setiu,property,all,2019-01-01,89,2019,83.0,6.0,7.23
+Terengganu,Setiu,property,all,2020-01-01,68,2020,89.0,-21.0,-23.6
+Terengganu,Setiu,property,all,2021-01-01,38,2021,68.0,-30.0,-44.12
+Terengganu,Setiu,property,all,2022-01-01,40,2022,38.0,2.0,5.26
+Terengganu,Setiu,property,all,2023-01-01,30,2023,40.0,-10.0,-25.0
+W.P. Kuala Lumpur,Brickfields,property,all,2016-01-01,2145,2016,,,
+W.P. Kuala Lumpur,Brickfields,property,all,2017-01-01,1441,2017,2145.0,-704.0,-32.82
+W.P. Kuala Lumpur,Brickfields,property,all,2018-01-01,1497,2018,1441.0,56.0,3.89
+W.P. Kuala Lumpur,Brickfields,property,all,2019-01-01,1492,2019,1497.0,-5.0,-0.33
+W.P. Kuala Lumpur,Brickfields,property,all,2020-01-01,1212,2020,1492.0,-280.0,-18.77
+W.P. Kuala Lumpur,Brickfields,property,all,2021-01-01,752,2021,1212.0,-460.0,-37.95
+W.P. Kuala Lumpur,Brickfields,property,all,2022-01-01,623,2022,752.0,-129.0,-17.15
+W.P. Kuala Lumpur,Brickfields,property,all,2023-01-01,583,2023,623.0,-40.0,-6.42
+W.P. Kuala Lumpur,Cheras,property,all,2016-01-01,2035,2016,,,
+W.P. Kuala Lumpur,Cheras,property,all,2017-01-01,1470,2017,2035.0,-565.0,-27.76
+W.P. Kuala Lumpur,Cheras,property,all,2018-01-01,1370,2018,1470.0,-100.0,-6.8
+W.P. Kuala Lumpur,Cheras,property,all,2019-01-01,1258,2019,1370.0,-112.0,-8.18
+W.P. Kuala Lumpur,Cheras,property,all,2020-01-01,1030,2020,1258.0,-228.0,-18.12
+W.P. Kuala Lumpur,Cheras,property,all,2021-01-01,806,2021,1030.0,-224.0,-21.75
+W.P. Kuala Lumpur,Cheras,property,all,2022-01-01,696,2022,806.0,-110.0,-13.65
+W.P. Kuala Lumpur,Cheras,property,all,2023-01-01,622,2023,696.0,-74.0,-10.63
+W.P. Kuala Lumpur,Dang Wangi,property,all,2016-01-01,3311,2016,,,
+W.P. Kuala Lumpur,Dang Wangi,property,all,2017-01-01,2254,2017,3311.0,-1057.0,-31.92
+W.P. Kuala Lumpur,Dang Wangi,property,all,2018-01-01,2162,2018,2254.0,-92.0,-4.08
+W.P. Kuala Lumpur,Dang Wangi,property,all,2019-01-01,1649,2019,2162.0,-513.0,-23.73
+W.P. Kuala Lumpur,Dang Wangi,property,all,2020-01-01,1364,2020,1649.0,-285.0,-17.28
+W.P. Kuala Lumpur,Dang Wangi,property,all,2021-01-01,1034,2021,1364.0,-330.0,-24.19
+W.P. Kuala Lumpur,Dang Wangi,property,all,2022-01-01,842,2022,1034.0,-192.0,-18.57
+W.P. Kuala Lumpur,Dang Wangi,property,all,2023-01-01,760,2023,842.0,-82.0,-9.74
+W.P. Kuala Lumpur,Sentul,property,all,2016-01-01,2697,2016,,,
+W.P. Kuala Lumpur,Sentul,property,all,2017-01-01,2063,2017,2697.0,-634.0,-23.51
+W.P. Kuala Lumpur,Sentul,property,all,2018-01-01,1850,2018,2063.0,-213.0,-10.32
+W.P. Kuala Lumpur,Sentul,property,all,2019-01-01,2005,2019,1850.0,155.0,8.38
+W.P. Kuala Lumpur,Sentul,property,all,2020-01-01,1407,2020,2005.0,-598.0,-29.83
+W.P. Kuala Lumpur,Sentul,property,all,2021-01-01,1162,2021,1407.0,-245.0,-17.41
+W.P. Kuala Lumpur,Sentul,property,all,2022-01-01,903,2022,1162.0,-259.0,-22.29
+W.P. Kuala Lumpur,Sentul,property,all,2023-01-01,882,2023,903.0,-21.0,-2.33
+W.P. Kuala Lumpur,W.P. Putrajaya,property,all,2016-01-01,263,2016,,,
+W.P. Kuala Lumpur,W.P. Putrajaya,property,all,2017-01-01,236,2017,263.0,-27.0,-10.27
+W.P. Kuala Lumpur,W.P. Putrajaya,property,all,2018-01-01,195,2018,236.0,-41.0,-17.37
+W.P. Kuala Lumpur,W.P. Putrajaya,property,all,2019-01-01,223,2019,195.0,28.0,14.36
+W.P. Kuala Lumpur,W.P. Putrajaya,property,all,2020-01-01,120,2020,223.0,-103.0,-46.19
+W.P. Kuala Lumpur,W.P. Putrajaya,property,all,2021-01-01,83,2021,120.0,-37.0,-30.83
+W.P. Kuala Lumpur,W.P. Putrajaya,property,all,2022-01-01,69,2022,83.0,-14.0,-16.87
+W.P. Kuala Lumpur,W.P. Putrajaya,property,all,2023-01-01,60,2023,69.0,-9.0,-13.04
+W.P. Kuala Lumpur,Wangsa Maju,property,all,2016-01-01,2762,2016,,,
+W.P. Kuala Lumpur,Wangsa Maju,property,all,2017-01-01,2019,2017,2762.0,-743.0,-26.9
+W.P. Kuala Lumpur,Wangsa Maju,property,all,2018-01-01,1916,2018,2019.0,-103.0,-5.1
+W.P. Kuala Lumpur,Wangsa Maju,property,all,2019-01-01,1631,2019,1916.0,-285.0,-14.87
+W.P. Kuala Lumpur,Wangsa Maju,property,all,2020-01-01,1220,2020,1631.0,-411.0,-25.2
+W.P. Kuala Lumpur,Wangsa Maju,property,all,2021-01-01,881,2021,1220.0,-339.0,-27.79
+W.P. Kuala Lumpur,Wangsa Maju,property,all,2022-01-01,732,2022,881.0,-149.0,-16.91
+W.P. Kuala Lumpur,Wangsa Maju,property,all,2023-01-01,693,2023,732.0,-39.0,-5.33

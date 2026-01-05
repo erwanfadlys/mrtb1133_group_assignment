@@ -236,9 +236,9 @@ The existing crime data is primarily used in **static formats** focusing solely 
 
 **Group Project - MSc Business Intelligence & Analytics**
 - **Course:** MRTB1133 - Business Intelligence
-- **Institution:** [Your University]
-- **Semester:** 1, Year 1
-- **Team Size:** 4 members (2 women, 1 man, 1 data analyst)
+- **Institution:** Universiti Teknologi Malaysia
+- **Semester:** 1, Year 2025/2026
+- **Team Member:** Shantini, Sri, Rosmaili, and Erwan
 
 ---
 
@@ -260,17 +260,11 @@ This project is developed for academic purposes as part of the MRTB1133 Business
 
 ## 🤝 Contributing
 
-This is a group project. All team members contribute to different aspects:
+This is a group project. All team members equally contribute to different aspects:
 - **BI Development:** Dashboard design and visualization
 - **ML Analytics:** Predictive modeling and data mining
 - **Documentation:** Report writing and presentation
 - **Data Management:** Collection, cleaning, and preprocessing
-
----
-
-## 📧 Contact
-
-For inquiries regarding this project, please contact the project team through your course instructor.
 
 ---
 
