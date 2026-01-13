@@ -1,4 +1,4 @@
-```md
+
 # 🚨 Intelligent Crime Analytics Dashboard for Malaysia
 ## Leveraging AI and BI for Strategic Crime Prevention
 
@@ -10,21 +10,21 @@
 
 ## 📋 Project Overview
 
-This project develops an **Intelligent Crime Analytics Dashboard** that combines **Business Intelligence (BI)** and **Artificial Intelligence (AI)** to enhance crime analysis and prevention strategies for Malaysian local government agencies.[web:192][web:194]
+This project develops an **Intelligent Crime Analytics Dashboard** that combines **Business Intelligence (BI)** and **Artificial Intelligence (AI)** to enhance crime analysis and prevention strategies for Malaysian local government agencies.
 
 ### 🎯 Theme
 **"The Next Frontier: Leveraging AI and BI for Strategic Growth and Innovation"**
 
-Public safety and crime prevention remain critical responsibilities of Malaysian local government. With Malaysia's crime rate increasing by an average of **16.5% year-over-year** (Zaini et al., 2021), there is an urgent need for advanced analytical tools to monitor and predict crime patterns.[web:202]
+Public safety and crime prevention remain critical responsibilities of Malaysian local government. With Malaysia's crime rate increasing by an average of **16.5% year-over-year** (Zaini et al., 2021), there is an urgent need for advanced analytical tools to monitor and predict crime patterns.
 
 ---
 
 ## 🔍 Background
 
 ### Current Landscape
-- **Rising Crime Rates:** Rapid urbanization, population growth, and socio-economic changes have contributed to evolving crime patterns across Malaysia.[web:202]
-- **Data Availability:** The Department of Statistics Malaysia provides crime-related data through its official portal, presenting historical crime statistics via charts and graphs.[web:192]
-- **BI Implementation:** Business Intelligence has been successfully deployed across various sectors by local governments for analysis and visualization.[web:200]
+- **Rising Crime Rates:** Rapid urbanization, population growth, and socio-economic changes have contributed to evolving crime patterns across Malaysia.
+- **Data Availability:** The Department of Statistics Malaysia provides crime-related data through its official portal, presenting historical crime statistics via charts and graphs.
+- **BI Implementation:** Business Intelligence has been successfully deployed across various sectors by local governments for analysis and visualization.
 
 ### The Gap
 Despite the availability of crime data and BI tools, **crime analytics remain limited**:
@@ -32,21 +32,21 @@ Despite the availability of crime data and BI tools, **crime analytics remain li
 - ✗ Data only available up to 2018  
 - ✗ Historical focus without predictive capabilities  
 - ✗ Limited year-over-year comparisons  
-- ✗ Descriptive analytics only—no future forecasting[web:192][web:201]
+- ✗ Descriptive analytics only—no future forecasting[web:192][web:210]
 
 ---
 
 ## ⚠️ Problem Statement
 
-**Despite the use of Business Intelligence dashboards in various sectors by Malaysian local government and the availability of crime-related data, crime analytics remain limited in analytical capability.**[web:192]
+**Despite the use of Business Intelligence dashboards in various sectors by Malaysian local government and the availability of crime-related data, crime analytics remain limited in analytical capability.**
 
 The existing crime data is primarily used in **static formats** focusing solely on **historical trends**, without predictive or forecasting capabilities.[web:192] This restricts local government's ability to:
 - Analyze future crime patterns  
 - Support proactive decision-making  
 - Implement preventive measures  
-- Compare trends across multiple years effectively[web:192][web:198]
+- Compare trends across multiple years effectively
 
-**Solution Required:** An integrated analytics approach combining **Business Intelligence** and **Artificial Intelligence** to transform crime analysis from descriptive to predictive, enabling Malaysian local government to prevent crimes through data-driven insights.[web:197]
+**Solution Required:** An integrated analytics approach combining **Business Intelligence** and **Artificial Intelligence** to transform crime analysis from descriptive to predictive, enabling Malaysian local government to prevent crimes through data-driven insights.
 
 ---
 
@@ -65,11 +65,11 @@ The existing crime data is primarily used in **static formats** focusing solely 
 
 | Dataset | What it is | How it is used |
 |--------|------------|----------------|
-| `crime_district_raw.csv` | Original crime statistics by police district and state from Malaysian open crime datasets. | Serves as the **base input** for preprocessing, feature engineering, and aggregation before analytics and dashboarding.[web:194] |
-| `district_profiles.csv` | One row per police district/state with engineered temporal, geographical, and statistical features (totals, averages, growth rates, volatility, ratios). | Used as the **main ML feature table**; a J48 classifier on this dataset achieved ~98% accuracy in assigning **High/Medium/Low risk_level** labels for districts.[web:202] |
-| `state_timeseries.csv` | Multi-year crime counts per state (panel structure: state × year). | Feeds the **time series forecasting** models (e.g., ARIMA/SARIMA) to generate state-level crime forecasts and trend directions visualised in Power BI.[web:192] |
-| `national_timeseries.csv` | Aggregated national crime totals by year for Malaysia. | Used to build the **national crime trend and forecast**, providing headline KPIs and overall trend visuals.[web:198] |
-| `state_clusters.csv` | One row per state with summary crime metrics and a cluster ID/label. | Output of **K-Means clustering (k = 2)** that segments states into groups (e.g., higher-volume vs lower-volume crime states) for prioritisation in the dashboard.[web:192] |
+| `crime_district_raw.csv` | Original crime statistics by police district and state from official Malaysian crime publications. | Serves as the **base input** for preprocessing, feature engineering, and aggregation before analytics and dashboarding. |
+| `district_profiles.csv` | One row per police district/state with engineered temporal, geographical, and statistical features (totals, averages, growth rates, volatility, ratios). | Used as the **main ML feature table** for risk modelling and classification of districts into High/Medium/Low risk levels. |
+| `state_timeseries.csv` | Multi-year crime counts per state (panel structure: state × year). | Feeds the **time series forecasting** models (e.g., ARIMA/SARIMA/Prophet) to generate state-level crime forecasts and trend directions visualised in Power BI. |
+| `national_timeseries.csv` | Aggregated national crime totals by year for Malaysia. | Used to build the **national crime trend and forecast**, providing headline KPIs and overall trend visuals in the dashboard. |
+| `state_clusters.csv` | One row per state with summary crime metrics and a cluster ID/label. | Output of **K-Means clustering** that segments states into groups (e.g., higher-volume vs lower-volume crime states) for prioritisation and policy grouping. |
 
 ---
 
@@ -85,8 +85,8 @@ The existing crime data is primarily used in **static formats** focusing solely 
                          ▼
 ┌─────────────────────────────────────────────────────────────┐
 │                   DATA PREPROCESSING                        │
-│        -  Data Cleaning    -  Feature Engineering             │
-│        -  Transformation   -  Quality Validation              │
+│        -  Data Cleaning    -  Feature Engineering           │
+│        -  Transformation   -  Quality Validation            │
 └────────────────────────┬────────────────────────────────────┘
                          │
          ┌───────────────┴───────────────┐
@@ -94,13 +94,13 @@ The existing crime data is primarily used in **static formats** focusing solely 
          ▼                               ▼
 ┌──────────────────┐          ┌──────────────────────┐
 │  DESCRIPTIVE BI  │          │   PREDICTIVE AI/ML   │
-│    (PowerBI)     │          │      (Python)        │
+│    (PowerBI)     │          │      (Python/WEKA)   │
 ├──────────────────┤          ├──────────────────────┤
-│ -  Visualizations │          │ -  Time Series        │
-│ -  Trend Analysis │          │   Forecasting        │
-│ -  KPI Dashboards │          │ -  Clustering         │
-│ -  Interactive    │          │ -  Classification     │
-│   Maps           │          │ -  Pattern Mining     │
+│ -  Visualizations│          │ -  Time Series       │
+│ -  Trend Analysis│          │   Forecasting        │
+│ -  KPI Dashboards│          │ -  Clustering        │
+│ -  Interactive   │          │ -  Classification    │
+│   Maps           │          │ -  Pattern Mining    │
 └────────┬─────────┘          └──────────┬───────────┘
          │                               │
          └───────────────┬───────────────┘
@@ -115,7 +115,7 @@ The existing crime data is primarily used in **static formats** focusing solely 
 ### Process Flow
 
 **1. Data Collection**  
-- Source: Department of Statistics Malaysia Crime Statistics.[web:192]  
+- Source: Department of Statistics Malaysia Crime Statistics.
 - Coverage: Police districts, states, crime categories/types.  
 - Time Period: Historical data (multi-year).  
 
@@ -124,39 +124,45 @@ The existing crime data is primarily used in **static formats** focusing solely 
 - Missing value treatment.  
 - Outlier detection and handling.  
 - Feature engineering (temporal, geographical, categorical).  
-- Data integration from multiple sources.[web:194]
+- Data integration from multiple sources.
 
 **3. Exploratory Data Analysis (EDA)**  
 - Statistical summaries.  
 - Distribution analysis.  
 - Correlation identification.  
-- Pattern discovery.[web:202]
+- Pattern discovery.
 
 **4. Business Intelligence Development (PowerBI)**  
 - Interactive dashboards.  
 - Geographical crime mapping.  
 - Temporal trend visualization.  
 - Comparative analysis (state/district/category).  
-- Key Performance Indicators (KPIs).[web:192]
+- Key Performance Indicators (KPIs).
 
 **5. AI/ML Analytics Development (Python)**
 
-| Technique | Algorithm | Purpose | Output |
-|-----------|-----------|---------|--------|
-| **Time Series Forecasting** | ARIMA/SARIMA/Prophet | Predict future crime counts | 6–12 month forecasts of crime by state and nationally.[web:195] |
-| **Clustering** | K-Means/DBSCAN | Identify crime hotspots | Risk zone or state cluster classifications.[web:192] |
-| **Classification** | J48 / tree-based models | Categorize district risk levels | High/Medium/Low risk labels per district or state.[web:202] |
-| **Association Mining** | Apriori Algorithm | Discover crime correlations | Crime pattern rules (e.g., co-occurring crime types). |
+| Dataset / Stage           | Algorithm | Purpose (what this shows) | How this dataset can be used |
+|---------------------------|----------|----------------------------|------------------------------|
+| `state_timeseries.csv`    | ARIMA    | Forecast total crime counts at **state** level over time. | Demonstrates classical **time series forecasting**: the dashboard can show historical vs forecast lines, confidence bands, and how different states are expected to move (up/down/flat) in the next periods. |
+| `national_timeseries.csv` | ARIMA    | Forecast **national** crime trend over time. | Provides a single national curve used for a **headline predictive KPI**; useful for showing Malaysia’s overall direction and validating ARIMA modelling concepts on aggregate data. |
+| `state_clusters.csv`      | K-Means  | Group states into **crime-risk tiers** based on volume/trend features. | Demonstrates **unsupervised learning**: this dataset gives each state a cluster label (e.g., higher-volume vs lower-volume), which can be used in the dashboard to highlight priority states and compare profiles between clusters. |
+| `district_profiles.csv`   | J48      | Classify districts into **High/Medium/Low risk** based on engineered features. | Demonstrates **supervised classification**: this dataset contains the engineered features plus a `risk_level` field where J48 achieved high accuracy, so the dashboard can colour maps/tables by risk and drill down to feature-driven explanations. |
+| Technique                 | Algorithm | Main dataset          | Output field / artifact      |
+|---------------------------|-----------|------------------------|------------------------------|
+| **Time Series Forecasting** | ARIMA     | `state_timeseries.csv`, `national_timeseries.csv` | Forecasted crime values and trend direction. |
+| **Clustering**           | K-Means   | `state_clusters.csv`  | Cluster ID / risk-tier label per state. |
+| **Classification**       | J48       | `district_profiles.csv` | `risk_level` (High/Medium/Low) per district. |
+
 
 **6. Model Evaluation**  
 - Performance metrics (RMSE, MAE, Accuracy, Precision, Recall, F1-Score).  
 - Cross-validation where applicable.  
-- Model comparison and selection for deployment.[web:202]
+- Model comparison and selection for deployment.[web:212][web:215]
 
 **7. Dashboard Integration**  
 - Embed ML insights into PowerBI.  
 - Create predictive analytics views.  
-- Enable drill-down from predictions to raw data.[web:194]
+- Enable drill-down from predictions to raw data.[web:209][web:213]
 
 **8. Insights & Recommendations**  
 - Actionable insights for policymakers.  
@@ -168,7 +174,7 @@ The existing crime data is primarily used in **static formats** focusing solely 
 ## 🛠️ Technology Stack
 
 ### Business Intelligence
-- **PowerBI** – Interactive dashboards and visualizations.[web:192]  
+- **PowerBI** – Interactive dashboards and visualizations.[web:209][web:213]  
 - **DAX** – Data modeling and calculations.
 
 ### Artificial Intelligence / Machine Learning
@@ -180,11 +186,12 @@ The existing crime data is primarily used in **static formats** focusing solely 
   - `statsmodels` – Time series analysis.  
   - `prophet` – Forecasting.  
   - `matplotlib`, `seaborn` – Visualization.  
-  - `mlxtend` – Association rule mining.[web:195]
+  - `mlxtend` – Association rule mining. 
+- **WEKA 3.8.6 Explorer**.  
 
 ### Data Storage
 - **CSV** – Crime district and aggregated data.  
-- **Power Query** – Data transformation and loading into Power BI.[web:194]
+- **Power Query** – Data transformation and loading into Power BI.[web:209]
 
 ---
 
@@ -208,13 +215,13 @@ The existing crime data is primarily used in **static formats** focusing solely 
 - Geographical crime heatmaps.  
 - Time series trend charts.  
 - Comparative state/district analysis.  
-- Drill-through capabilities.[web:192]
+- Drill-through capabilities.[web:209][web:213]
 
 ### 2. Python ML Models
 - Trained and validated models.  
 - Model performance reports.  
 - Prediction outputs (CSV/JSON) aligned to the datasets above.  
-- Jupyter notebooks with analysis.[web:195]
+- Jupyter notebooks with analysis.[web:215]
 
 ### 3. Documentation
 - Methodology report.  
@@ -228,15 +235,15 @@ The existing crime data is primarily used in **static formats** focusing solely 
 
 ### Data Challenges
 - **Data Quality:** Missing values and inconsistencies in reporting.  
-- **Data Availability:** Limited to historical data up to 2018 in official releases.  
+- **Data Availability:** Many official releases provide crime data only up to 2018.  
 - **Data Granularity:** Varying levels of detail across districts.  
-- **Update Frequency:** Irregular data refresh cycles.[web:192][web:201]
+- **Update Frequency:** Irregular data refresh cycles.[web:192][web:210][web:198]
 
 ### Technical Challenges
 - **Model Accuracy:** Crime is influenced by numerous socio-economic factors.  
 - **Overfitting Risk:** Limited temporal data for robust forecasting.  
 - **Integration Complexity:** Embedding Python ML into PowerBI.  
-- **Computational Resources:** Larger datasets require optimisation.[web:195]
+- **Computational Resources:** Larger datasets require optimisation.[web:215]
 
 ### Ethical Considerations
 - **Privacy:** Ensuring anonymization of sensitive crime data.  
@@ -257,17 +264,21 @@ The existing crime data is primarily used in **static formats** focusing solely 
 
 ## 📚 References
 
-Department of Statistics Malaysia. (2019). *Crime Statistics Malaysia 2019*. Retrieved January 3, 2026, from https://www.dosm.gov.my/portal-main/release-content/crime-statistics-malaysia-2019[web:192]
+Department of Statistics Malaysia. (2019). *Crime statistics, Malaysia, 2019*. Retrieved January 3, 2026, from https://www.dosm.gov.my/portal-main/release-content/crime-statistics-malaysia-2019[web:192]
 
-OECD. (2025). *Governing with Artificial Intelligence*. OECD Publishing. https://doi.org/10.1787/795DE142-EN[web:197]
+Governing with Artificial Intelligence. (2025). *Governing with Artificial Intelligence*. OECD. https://doi.org/10.1787/795DE142-EN[web:197]
 
-Zaini, N. E., Zakaria, S., Rahman, N. A., & Alwi, W. S. W. (2021). A statistical inference analysis on crime rates in Peninsular Malaysia using Geographical Weighted Regression. *Journal of Mathematical Sciences and Informatics, 1*(1), 45–58. https://doi.org/10.46754/JMSI.2021.12.005[web:202]
+Hyndman, R. J., & Athanasopoulos, G. (2021). *Forecasting: Principles and practice* (3rd ed.). OTexts. https://otexts.com/fpp3/[web:215]
+
+Schröer, C., Kruse, F., & Gómez, J. M. (2021). A systematic literature review on applying CRISP-DM process model. *Procedia Computer Science, 181*, 526–534. https://doi.org/10.1016/j.procs.2021.01.199[web:215]
+
+Zaini, N. E., Zakaria, S., Rahman, N. A., & Alwi, W. S. W. (2021). A statistical inference analysis on crime rates in Peninsular Malaysia using Geographical Weighted Regression. *Journal of Mathematical Sciences and Informatics, 1*(1), 45–58. https://doi.org/10.46754/JMSI.2021.12.005[web:212]
 
 ---
 
 ## 📝 License
 
-This project is developed for academic purposes as part of the UTM MSc BIA MRTB1133 Business Intelligence course.
+This project is developed for academic purposes as part of the MRTB1133 Business Intelligence course.
 
 ---
 
