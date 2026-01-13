@@ -32,7 +32,7 @@ Despite the availability of crime data and BI tools, **crime analytics remain li
 - ✗ Data only available up to 2018  
 - ✗ Historical focus without predictive capabilities  
 - ✗ Limited year-over-year comparisons  
-- ✗ Descriptive analytics only—no future forecasting[web:192][web:210]
+- ✗ Descriptive analytics only—no future forecasting
 
 ---
 
@@ -40,7 +40,7 @@ Despite the availability of crime data and BI tools, **crime analytics remain li
 
 **Despite the use of Business Intelligence dashboards in various sectors by Malaysian local government and the availability of crime-related data, crime analytics remain limited in analytical capability.**
 
-The existing crime data is primarily used in **static formats** focusing solely on **historical trends**, without predictive or forecasting capabilities.[web:192] This restricts local government's ability to:
+The existing crime data is primarily used in **static formats** focusing solely on **historical trends**, without predictive or forecasting capabilities. This restricts local government's ability to:
 - Analyze future crime patterns  
 - Support proactive decision-making  
 - Implement preventive measures  
@@ -157,24 +157,24 @@ The existing crime data is primarily used in **static formats** focusing solely 
 **6. Model Evaluation**  
 - Performance metrics (RMSE, MAE, Accuracy, Precision, Recall, F1-Score).  
 - Cross-validation where applicable.  
-- Model comparison and selection for deployment.[web:212][web:215]
+- Model comparison and selection for deployment.
 
 **7. Dashboard Integration**  
 - Embed ML insights into PowerBI.  
 - Create predictive analytics views.  
-- Enable drill-down from predictions to raw data.[web:209][web:213]
+- Enable drill-down from predictions to raw data.
 
 **8. Insights & Recommendations**  
 - Actionable insights for policymakers.  
 - Resource allocation recommendations.  
-- Crime prevention strategies informed by patterns and forecasts.[web:200]
+- Crime prevention strategies informed by patterns and forecasts.
 
 ---
 
 ## 🛠️ Technology Stack
 
 ### Business Intelligence
-- **PowerBI** – Interactive dashboards and visualizations.[web:209][web:213]  
+- **PowerBI** – Interactive dashboards and visualizations.
 - **DAX** – Data modeling and calculations.
 
 ### Artificial Intelligence / Machine Learning
@@ -191,7 +191,7 @@ The existing crime data is primarily used in **static formats** focusing solely 
 
 ### Data Storage
 - **CSV** – Crime district and aggregated data.  
-- **Power Query** – Data transformation and loading into Power BI.[web:209]
+- **Power Query** – Data transformation and loading into Power BI.
 
 ---
 
@@ -215,19 +215,19 @@ The existing crime data is primarily used in **static formats** focusing solely 
 - Geographical crime heatmaps.  
 - Time series trend charts.  
 - Comparative state/district analysis.  
-- Drill-through capabilities.[web:209][web:213]
+- Drill-through capabilities.
 
 ### 2. Python ML Models
 - Trained and validated models.  
 - Model performance reports.  
 - Prediction outputs (CSV/JSON) aligned to the datasets above.  
-- Jupyter notebooks with analysis.[web:215]
+- Jupyter notebooks with analysis.
 
 ### 3. Documentation
 - Methodology report.  
 - User guide for dashboard.  
 - Technical documentation.  
-- Limitations and future work.[web:200]
+- Limitations and future work.
 
 ---
 
@@ -237,18 +237,18 @@ The existing crime data is primarily used in **static formats** focusing solely 
 - **Data Quality:** Missing values and inconsistencies in reporting.  
 - **Data Availability:** Many official releases provide crime data only up to 2018.  
 - **Data Granularity:** Varying levels of detail across districts.  
-- **Update Frequency:** Irregular data refresh cycles.[web:192][web:210][web:198]
+- **Update Frequency:** Irregular data refresh cycles.
 
 ### Technical Challenges
 - **Model Accuracy:** Crime is influenced by numerous socio-economic factors.  
 - **Overfitting Risk:** Limited temporal data for robust forecasting.  
 - **Integration Complexity:** Embedding Python ML into PowerBI.  
-- **Computational Resources:** Larger datasets require optimisation.[web:215]
+- **Computational Resources:** Larger datasets require optimisation.
 
 ### Ethical Considerations
 - **Privacy:** Ensuring anonymization of sensitive crime data.  
 - **Bias:** Addressing potential algorithmic bias in risk classification.  
-- **Transparency:** Making ML predictions interpretable for policymakers.[web:197]
+- **Transparency:** Making ML predictions interpretable for policymakers.
 
 ---
 
@@ -264,13 +264,13 @@ The existing crime data is primarily used in **static formats** focusing solely 
 
 ## 📚 References
 
-Department of Statistics Malaysia. (2019). *Crime statistics, Malaysia, 2019*. Retrieved January 3, 2026, from https://www.dosm.gov.my/portal-main/release-content/crime-statistics-malaysia-2019[web:192]
+Department of Statistics Malaysia. (2019). *Crime statistics, Malaysia, 2019*. Retrieved January 3, 2026, from https://www.dosm.gov.my/portal-main/release-content/crime-statistics-malaysia-2019
 
 Governing with Artificial Intelligence. (2025). *Governing with Artificial Intelligence*. OECD. https://doi.org/10.1787/795DE142-EN[web:197]
 
 Hyndman, R. J., & Athanasopoulos, G. (2021). *Forecasting: Principles and practice* (3rd ed.). OTexts. https://otexts.com/fpp3/[web:215]
 
-Schröer, C., Kruse, F., & Gómez, J. M. (2021). A systematic literature review on applying CRISP-DM process model. *Procedia Computer Science, 181*, 526–534. https://doi.org/10.1016/j.procs.2021.01.199[web:215]
+Schröer, C., Kruse, F., & Gómez, J. M. (2021). A systematic literature review on applying CRISP-DM process model. *Procedia Computer Science, 181*, 526–534. https://doi.org/10.1016/j.procs.2021.01.199
 
 Zaini, N. E., Zakaria, S., Rahman, N. A., & Alwi, W. S. W. (2021). A statistical inference analysis on crime rates in Peninsular Malaysia using Geographical Weighted Regression. *Journal of Mathematical Sciences and Informatics, 1*(1), 45–58. https://doi.org/10.46754/JMSI.2021.12.005[web:212]
 
