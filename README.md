@@ -73,9 +73,9 @@ The existing crime data is primarily used in **static formats** focusing solely 
 
 ---
 
-## 🔬 Methodology
+## 🔬 Methodology | CRISP-DM
 
-### Architecture Overview
+### Architecture Overview 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                     DATA COLLECTION                         │
